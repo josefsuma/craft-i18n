@@ -35,7 +35,7 @@
 	A flat nib at 45°: thick and thin strokes by direction.	Plochý hrot pod úhlem 45°: silné a tenké tahy podle směru.
 	A frame script: it runs while the movie plays. Pick it for a keyframe in the Actions panel (F9)	Skript snímku se spouští při přehrávání animace. Přiřaďte jej klíčovému snímku v panelu Akce (F9)
 	A light touch already paints wide	Již lehký přítlak vytváří široký tah
-	A line whose width you can shape with the Width tool.	Čára, jejíž šířku lze tvarovat nástrojem Šířka.
+	A line whose width you can shape with the Width tool.	Tah, jehož šířku lze tvarovat nástrojem Šířka.
 	A list of actions, in order	Seznam akcí v pořadí provádění
 	A pattern such as h.llo or \\d+ (Rust regex syntax; runs in linear time)	Vzor jako h.llo nebo \\d+ (syntaxe regulárních výrazů Rustu; zpracování v lineárním čase)
 	A pinned bone, and the bones it hangs from, stay put while you drag the bones below it	Připnutá kost a její nadřazené kosti zůstanou na místě při tažení podřízených kostí
@@ -50,7 +50,7 @@
 	A square eraser	Čtvercová guma
 	A square or flat tip	Čtvercová nebo plochá špička
 	A template called “{name}” is in this category already: saving asks to replace it.	V této kategorii již existuje šablona „{name}“: při ukládání se zobrazí dotaz na její nahrazení.
-	A thin line with short tapered ends; it takes a firm press to paint wide.	Tenká čára s krátkými zúženými konci; široký tah vyžaduje silný přítlak.
+	A thin line with short tapered ends; it takes a firm press to paint wide.	Tenký tah s krátkými zúženými konci; široký tah vyžaduje silný přítlak.
 	ANICRAFT_STAGE_RENDERER is set, and it takes precedence over this choice.	Proměnná ANICRAFT_STAGE_RENDERER je nastavená a má přednost před touto volbou.
 	About AniCraft	O aplikaci AniCraft
 	ActionScript 1.0 & 2.0	ActionScript 1.0 a 2.0
@@ -126,9 +126,9 @@
 	Animated GIF	Animovaný GIF
 	Animated PNG	Animovaný PNG
 	Animated WebP	Animovaný WebP
-	Applied the preset “{name}” — {undo} to undo	Použita předvolba „{name}“ — {undo} vrátí změnu
+	Applied the preset “{name}” — {undo} to undo	Použito přednastavení „{name}“ — {undo} vrátí změnu
 	Apply Style	Použít styl
-	Apply a preset	Použít předvolbu
+	Apply a preset	Použít přednastavení
 	Architecture philosophy	Principy architektury
 	Armature	Kostra
 	Armature layer	Kosterní vrstva
@@ -140,7 +140,7 @@
 	At the centre of the view, on the active layer (Enter; or drag onto the stage)	Doprostřed pohledu na aktivní vrstvu (Enter nebo přetažení na pracovní plochu)
 	Audio	Zvuk
 	Autosave	Automatické ukládání
-	Autosave Now	Automaticky uložit nyní
+	Autosave Now	Uložit záložní kopii nyní
 	Autosave after this many changes	Automaticky uložit po tomto počtu změn
 	Autosave every	Automaticky ukládat každých
 	Autosave failed: {error}. Save your work to be safe; AniCraft will keep trying.	Automatické uložení selhalo: {error}. Pro jistotu práci uložte; AniCraft se bude pokoušet dál.
@@ -178,13 +178,13 @@
 	Break Apart	Rozdělit
 	Brush	Štětec
 	Brush Library	Knihovna štětců
-	Brush Presets	Předvolby štětce
+	Brush Presets	Přednastavení štětce
 	Brush Size Down	Zmenšit štětec
 	Brush Size Up	Zvětšit štětec
 	Brush Stroke	Tah štětcem
 	Brush angle	Úhel štětce
 	Brush name	Název štětce
-	Brush preset	Předvolba štětce
+	Brush preset	Přednastavení štětce
 	Brush roundness	Kulatost štětce
 	Brush set	Sada štětců
 	Brush size	Velikost štětce
@@ -214,7 +214,7 @@
 	Can't import {file}: {why}	Nelze importovat {file}: {why}
 	Can't open {file}: {why}	Nelze otevřít {file}: {why}
 	Cancelled	Zrušeno
-	Cap	Zakončení čáry
+	Cap	Zakončení tahu
 	Centre	Střed
 	Chalk	Křída
 	Changed the stroke's width. {undo} to undo.	Šířka tahu změněna. {undo} vrátí změnu.
@@ -223,11 +223,11 @@
 	Check Frame Script	Zkontrolovat skript snímku
 	Check again	Zkontrolovat znovu
 	Check for Updates…	Zkontrolovat aktualizace…
-	Checking for updates…	Kontroluji aktualizace…
+	Checking for updates…	Probíhá kontrola aktualizací…
 	Choose a Library item.	Vyberte položku knihovny.
 	Choose a font	Vybrat písmo
 	Choose a font the document's text uses.	Vyberte písmo použité v textu dokumentu.
-	Choose a preset	Vybrat předvolbu
+	Choose a preset	Vybrat přednastavení
 	Choose from the Library	Vybrat z knihovny
 	Class	Třída
 	Classic tween	Klasická interpolace
@@ -236,16 +236,16 @@
 	Clear Frame Script	Vymazat skript snímku
 	Clear Keyframe	Vymazat klíčový snímek
 	Clear on Multiple Frames	Vymazat na více snímcích
-	Cleared keyframe — {undo} to undo	Klíčový snímek vymazán — {undo} pro vrácení změny
+	Cleared keyframe — {undo} to undo	Klíčový snímek vymazán — {undo} vrátí změnu
 	Clears every visible, unlocked layer at this frame, as double-clicking the Eraser tool does. You can undo it	Vymaže všechny viditelné a odemčené vrstvy na tomto snímku, stejně jako dvojklik na nástroj Guma. Akci lze vrátit zpět
 	Click	Kliknutí
 	Click a brush to draw with it in the Paint Brush.	Kliknutím vyberte štětec pro kreslení nástrojem Malovací štětec.
 	Click a brush to paint with it in the Brush.	Kliknutím vyberte štětec pro malování nástrojem Štětec.
 	Click a fill or an enclosed area to pour it.	Klikněte na výplň nebo uzavřenou oblast a vyplňte ji.
-	Click a fill to pick its colour, gradient or bitmap (then pour it with the Paint Bucket), or a line to pick its colour, width and profile (then apply it with the Ink Bottle). With shapes selected, the picked style goes onto them. Shift-click picks into the other swatch only.	Kliknutím na výplň naberete její barvu, přechod nebo bitmapu (pak ji použijete nástrojem Plechovka barvy). Kliknutím na čáru naberete její barvu, šířku a profil (pak je použijete nástrojem Nanášení obrysu). Jsou-li vybrané tvary, nabraný styl se na ně použije. Shift+klik nabere styl pouze do druhého barevného pole.
+	Click a fill to pick its colour, gradient or bitmap (then pour it with the Paint Bucket), or a line to pick its colour, width and profile (then apply it with the Ink Bottle). With shapes selected, the picked style goes onto them. Shift-click picks into the other swatch only.	Kliknutím na výplň naberete její barvu, přechod nebo bitmapu (pak ji použijete nástrojem Plechovka barvy). Kliknutím na tah naberete jeho barvu, šířku a profil (pak je použijete nástrojem Nanášení tahu). Jsou-li vybrané tvary, nabraný styl se na ně použije. Shift+klik nabere styl pouze do druhého barevného pole.
 	Click a key to change it or + to add one; right-click a key to remove it. Changes save as you go.	Kliknutím na zkratku ji změníte, tlačítkem + přidáte další a pravým kliknutím ji odeberete. Změny se průběžně ukládají.
-	Click a shape to give it the current stroke colour and width.	Kliknutím na tvar mu přiřadíte aktuální barvu a tloušťku obrysu.
-	Click a shape to give it this line.	Kliknutím na tvar mu přiřadíte tuto čáru.
+	Click a shape to give it the current stroke colour and width.	Kliknutím na tvar mu přiřadíte aktuální barvu a šířku tahu.
+	Click a shape to give it this line.	Kliknutím na tvar mu přiřadíte tento tah.
 	Click a shape to show its points; on a merged drawing, the points of everything connected to it. Drag points or handles to reshape (a shared point moves every shape that has it; a smooth point's handles stay in line, Alt moves one alone); drag a line or fill to move everything connected. Shift adds to the point selection, drag on empty space to marquee points, arrow keys nudge them. Double-click an edge to add a point, Delete removes points, and right-click makes a point smooth or a corner. A motion path's points edit the same way (its ends stay).	Kliknutím na tvar zobrazíte jeho body; u sloučené kresby body všech propojených částí. Tažením bodů nebo táhel měníte tvar (společný bod ovlivní všechny tvary, které jej sdílejí; táhla hladkého bodu zůstávají v přímce, Alt umožní pohyb jednoho zvlášť). Tažením čáry či výplně přesunete všechny propojené části. Shift přidává body do výběru, tažení na prázdném místě vybírá body rámečkem a šipky je posouvají. Dvojklik na hranu přidá bod, Delete body odstraní a pravé kliknutí změní bod na hladký či rohový. Stejně lze upravovat body dráhy pohybu (koncové body zůstávají).
 	Click inside an outline to fill it (on the layer's lines), or on a fill to recolour it. The gap size closes small openings.	Kliknutím dovnitř obrysu z čar vrstvy oblast vyplníte, kliknutím na výplň ji přebarvíte. Nastavení velikosti mezer umožní uzavřít malé otvory.
 	Click the movie to give it the keyboard	Kliknutím na animaci jí předáte vstup z klávesnice
@@ -287,11 +287,11 @@
 	Copy Frames	Kopírovat snímky
 	Copy on Multiple Frames	Kopírovat na více snímcích
 	Corner radius	Poloměr rohů
-	Corners sharper than this are bevelled: how far a point may reach, in stroke widths	Ostřejší rohy se zkosí: určuje dosah špičky v násobcích tloušťky čáry
+	Corners sharper than this are bevelled: how far a point may reach, in stroke widths	Ostřejší rohy se zkosí: určuje dosah špičky v násobcích šířky tahu
 	Could not make the archive: {e}	Archiv se nepodařilo vytvořit: {e}
 	Could not open {name}: {e}	Nelze otevřít {name}: {e}
 	Could not restore {name}: {error}	Nelze obnovit {name}: {error}
-	Could not save preferences: {e}	Nastavení se nepodařilo uložit: {e}
+	Could not save preferences: {e}	Předvolby se nepodařilo uložit: {e}
 	Couldn't check for updates: {error}	Aktualizace se nepodařilo zkontrolovat: {error}
 	Create Classic Tween	Vytvořit klasickou interpolaci
 	Create Motion Tween	Vytvořit pohybovou interpolaci
@@ -319,7 +319,7 @@
 	Delete Motion Path Points	Odstranit body dráhy pohybu
 	Delete Point	Odstranit bod
 	Delete Points	Odstranit body
-	Delete Preset	Odstranit předvolbu
+	Delete Preset	Odstranit přednastavení
 	Delete Scene	Odstranit scénu
 	Delete Sound	Odstranit zvuk
 	Delete Template	Odstranit šablonu
@@ -329,21 +329,21 @@
 	Delete layer	Odstranit vrstvu
 	Delete template {name}	Odstranit šablonu {name}
 	Delete the active layer	Odstranit aktivní vrstvu
-	Delete the preset “{name}” (asks once more)	Odstranit předvolbu „{name}“ (s dalším potvrzením)
+	Delete the preset “{name}” (asks once more)	Odstranit přednastavení „{name}“ (s dalším potvrzením)
 	Delete this autosaved copy	Odstranit tuto automaticky uloženou kopii
 	Delete this keyframe's script	Odstranit skript tohoto klíčového snímku
 	Delete this template and its picture (asks first)	Odstranit tuto šablonu a její obrázek (s potvrzením)
 	Delete whole fills and lines	Mazat celé výplně a čáry
 	Delete “{name}”	Odstranit „{name}“
-	Deleted layer — {undo} to undo	Vrstva odstraněna — {undo} pro vrácení změny
-	Deleted scene — {undo} to undo	Scéna odstraněna — {undo} pro vrácení změny
+	Deleted layer — {undo} to undo	Vrstva odstraněna — {undo} vrátí změnu
+	Deleted scene — {undo} to undo	Scéna odstraněna — {undo} vrátí změnu
 	Deleted sound — {undo} to undo	Zvuk odstraněn — {undo} vrátí změnu
 	Deleted the fill. {undo} to undo.	Výplň odstraněna. {undo} vrátí změnu.
 	Deleted the line. {undo} to undo.	Čára odstraněna. {undo} vrátí změnu.
-	Deleted the preset “{name}”	Předvolba „{name}“ odstraněna
+	Deleted the preset “{name}”	Přednastavení „{name}“ odstraněno
 	Deletes the selected items and folders (Delete)	Odstraní vybrané položky a složky (Delete)
 	Delete…	Odstranit…
-	Deleting a preset can't be undone	Odstranění předvolby nelze vrátit
+	Deleting a preset can't be undone	Odstranění přednastavení nelze vrátit
 	Descending: click for ascending	Sestupně: kliknutím seřadíte vzestupně
 	Deselected {name}	Výběr zrušen: {name}
 	Desktop app (source)	Desktopová aplikace (zdrojový kód)
@@ -362,7 +362,7 @@
 	Don't close gaps	Neuzavírat mezery
 	Dot spacing	Rozestup teček
 	Down: the button while it is pressed	Stisknuté: vzhled tlačítka při stisknutí
-	Downloading and verifying the update…	Stahuji a ověřuji aktualizaci…
+	Downloading and verifying the update…	Probíhá stahování a ověřování aktualizace…
 	Drag	Táhnout
 	Drag Bone	Táhnout kost
 	Drag a corner or edge to scale (Shift keeps proportions, Alt scales from the centre), just outside a corner to rotate (Shift snaps 15°), inside to move.	Tažením rohu či okraje změníte velikost (Shift zachová proporce, Alt mění velikost od středu), tažením těsně vně rohu otočíte (Shift po 15°) a tažením uvnitř přesunete.
@@ -373,7 +373,7 @@
 	Drag on the stage to pan the camera, drag the round handle to turn it, and use the wheel to zoom (each drag is one undo step). Picking the tool adds a camera if the scene has none.	Tažením na pracovní ploše posunete kameru, kulatým táhlem ji otočíte a kolečkem přiblížíte (každé tažení je jeden krok historie). Výběrem nástroje se přidá kamera, pokud ve scéně žádná není.
 	Drag to choose how many frames onion skin shows before and after the playhead	Tažením zvolíte počet prosvítajících snímků před a za přehrávací hlavou
 	Drag to choose the frames onion skin shows (anchored: they stay when the playhead moves)	Tažením zvolíte prosvítající snímky (při ukotvení zůstanou stejné i při posunu přehrávací hlavy)
-	Drag to draw a line in the stroke colour whose width follows the pen's pressure and the brush's tapers. Shape it afterwards with the Width tool. [ and ] change the size; the options set the brush and its pressure curve.	Tažením nakreslíte čáru v barvě obrysu, jejíž šířku určuje přítlak pera a zúžení konců štětce. Později ji upravíte nástrojem Šířka. [ a ] mění velikost; ve volbách nastavíte štětec a křivku přítlaku.
+	Drag to draw a line in the stroke colour whose width follows the pen's pressure and the brush's tapers. Shape it afterwards with the Width tool. [ and ] change the size; the options set the brush and its pressure curve.	Tažením nakreslíte tah v barvě tahu, jehož šířku určuje přítlak pera a zúžení konců štětce. Později jej upravíte nástrojem Šířka. [ a ] mění velikost; ve volbách nastavíte štětec a křivku přítlaku.
 	Drag to draw a line. Shift snaps to 45°.	Tažením nakreslíte čáru. Shift omezuje směr na násobky 45°.
 	Drag to draw a rectangle. Shift draws a square.	Tažením nakreslíte obdélník. Se Shiftem nakreslíte čtverec.
 	Drag to draw an oval. Shift draws a circle.	Tažením nakreslíte ovál. Se Shiftem nakreslíte kruh.
@@ -582,7 +582,7 @@
 	GPU starting	Spouští se GPU
 	Gap length	Délka mezery
 	Gap size	Velikost mezery
-	Get Layer Properties	Vlastnosti vrstvy
+	Get Layer Properties	Zjistit vlastnosti vrstvy
 	Give every property's segment at this frame this ease	Použít tento průběh interpolace na úseky všech vlastností na tomto snímku
 	Glow options	Nastavení záře
 	Go to	Přejít na
@@ -611,7 +611,7 @@
 	Guides y	Vodítka Y
 	HD video	Video HD
 	HTML canvas	HTML Canvas
-	Heard for {time} ({why}). Presets are shaped over this time; editing one makes it Custom.	Přehrává se po dobu {time} ({why}). Předvolby se přizpůsobují této době; úpravou se změní na vlastní.
+	Heard for {time} ({why}). Presets are shaped over this time; editing one makes it Custom.	Přehrává se po dobu {time} ({why}). Přednastavení se přizpůsobují této době; úpravou se změní na vlastní.
 	Hide object	Skrýt objekt
 	High contrast	Vysoký kontrast
 	High contrast while the system asks for more contrast (it does now), graphite otherwise.	Vysoký kontrast, pokud jej systém požaduje (nyní ano), jinak grafitový motiv.
@@ -626,8 +626,8 @@
 	How much of the stroke swells from a point at its start	Jak velká část tahu se na začátku postupně rozšiřuje ze špičky
 	How much of the stroke thins to a point at its end	Jak velká část tahu se na konci postupně zužuje do špičky
 	How much the stroke is smoothed: 0 follows the hand closely	Míra vyhlazování tahu: 0 přesně sleduje pohyb ruky
-	How open ends finish: flat at the end (None), rounded, or squared off past it	Zakončení otevřené čáry: rovné (Žádné), zaoblené nebo čtvercové s přesahem
-	How the stroke's width varies along it. Shape it by hand with the Width tool (U).	Průběh tloušťky podél čáry. Ručně jej upravíte nástrojem Šířka (U).
+	How open ends finish: flat at the end (None), rounded, or squared off past it	Zakončení otevřeného tahu: rovné (Žádné), zaoblené nebo čtvercové s přesahem
+	How the stroke's width varies along it. Shape it by hand with the Width tool (U).	Průběh šířky podél tahu. Ručně jej upravíte nástrojem Šířka (U).
 	Icons: Lucide (ISC)	Ikony: Lucide (ISC)
 	If AniCraft closes unexpectedly, the next start offers to restore it. Copies stay in the settings folder, never over your files, and go away when you save.	Pokud se AniCraft neočekávaně zavře, při příštím spuštění nabídne obnovení. Kopie se ukládají do složky nastavení, nikdy nepřepisují vaše soubory a po uložení se odstraní.
 	If you don't save, your changes since the last save will be lost.	Pokud neuložíte, přijdete o změny od posledního uložení.
@@ -644,7 +644,7 @@
 	Include sound	Zahrnout zvuk
 	Include sounds	Zahrnout zvuky
 	Ink	Inkoust
-	Ink Bottle	Nanášení obrysu
+	Ink Bottle	Nanášení tahu
 	Ink Pen	Inkoustové pero
 	Inner	Vnitřní
 	Input text	Vstupní text
@@ -677,7 +677,7 @@
 	Keep a recovery copy of unsaved work	Uchovávat záložní kopii neuložené práce
 	Keep it at the top of the list	Ponechat na začátku seznamu
 	Keep the markers on their frames instead of moving them with the playhead	Značky zůstanou na svých snímcích a neposunují se s přehrávací hlavou
-	Keep these settings as a preset you can apply to any document	Uložit tato nastavení jako předvolbu použitelnou na libovolný dokument
+	Keep these settings as a preset you can apply to any document	Uložit tato nastavení jako přednastavení použitelné na libovolný dokument
 	Keeps step with the timeline it is on (looping options below)	Řídí se časovou osou, na které je umístěn (volby opakování níže)
 	Kept from the Animate document: an ActionScript 1.0 or 2.0 variable, which doesn't run here	Uchováno z dokumentu Animate: proměnná ActionScriptu 1.0 nebo 2.0, která zde není funkční
 	Kept the autosaved work. File › Recover Autosaved Documents… brings it back.	Automaticky uložená práce zachována. Znovu ji otevřete příkazem „Soubor › Obnovit automaticky uložené dokumenty…“.
@@ -737,7 +737,7 @@
 	Lines written	Vypsané řádky
 	Linkage class	Propojovací třída
 	Linux / BSD	Linux / BSD
-	Lip-sync mouth chart	Tvary úst pro synchronizaci řeči
+	Lip-sync mouth chart	Tvary úst pro synchronizaci rtů
 	List Actions	Vypsat akce
 	List Frame Scripts	Vypsat skripty snímků
 	List Library	Vypsat obsah knihovny
@@ -837,7 +837,7 @@
 	New from Template…	Nový ze šablony…
 	New from template {name}	Nový ze šablony {name}
 	New layer	Nová vrstva
-	New preset name	Název nové předvolby
+	New preset name	Název nového přednastavení
 	New {name}, {size}	Nový dokument: {name}, {size}
 	Next Frame	Další snímek
 	Next Panel	Další panel
@@ -970,12 +970,12 @@
 	Pick any colour in Layer Properties	Vyberte libovolnou barvu ve Vlastnostech vrstvy
 	Picked the bitmap fill.	Nabrána bitmapová výplň.
 	Picked the fill {color}.	Nabrána výplň {color}.
-	Picked the line {color}, {width} px.	Nabrána čára {color}, {width} px.
+	Picked the line {color}, {width} px.	Nabrán tah {color}, {width} px.
 	Picked the linear gradient.	Nabrán lineární přechod.
 	Picked the radial gradient.	Nabrán radiální přechod.
 	Picked with the Eyedropper. It stays where it was on the stage (lock fill). Pick a colour to fill with a solid colour again.	Výplň byla vybrána kapátkem. Zůstává na původním místě pracovní plochy (uzamčená výplň). Pro jednobarevnou výplň vyberte barvu.
 	Picked {color} into the fill colour.	Barva {color} nabrána jako barva výplně.
-	Picked {color} into the stroke colour.	Barva {color} nabrána jako barva obrysu.
+	Picked {color} into the stroke colour.	Barva {color} nabrána jako barva tahu.
 	Pin	Připnout
 	Pin Bone	Připnout kost
 	Pin Here	Připnout zde
@@ -983,7 +983,7 @@
 	Pin the motion path at this frame	Připnout dráhu pohybu na tomto snímku
 	Pin to Frame {frame}	Připnout ke snímku {frame}
 	Pin to Recent Files	Připnout do nedávných souborů
-	Pinch	Sevření prstů
+	Pinch	Zúžení uprostřed
 	Pinned	Připnuto
 	Pinned files stay	Připnuté soubory zůstanou
 	Pinned point {anchor} to frame {frame}: the object passes it then. {undo} to undo.	Bod {anchor} připnut ke snímku {frame}: objekt jím tehdy projde. {undo} vrátí změnu.
@@ -1005,7 +1005,7 @@
 	Playhead (frame ruler)	Přehrávací hlava (pravítko snímků)
 	Playing without sound: {e}	Přehrávání bez zvuku: {e}
 	Plays	Přehrání
-	Plays again and again: to the end of the movie (event) or of this span (stream)	Opakuje přehrávání až do konce animace (událost) nebo tohoto úseku (proud)
+	Plays again and again: to the end of the movie (event) or of this span (stream)	Opakuje přehrávání až do konce animace (Událost) nebo tohoto úseku (Stream)
 	Plays in full from this keyframe, independent of the timeline	Přehraje celý zvuk od tohoto klíčového snímku nezávisle na časové ose
 	Plays its own timeline on a loop, from when it appears	Od svého zobrazení přehrává vlastní časovou osu ve smyčce
 	Plays on the left channel only	Přehrává pouze v levém kanálu
@@ -1030,9 +1030,6 @@
 	Position	Poloha
 	Position X	Poloha X
 	Position Y	Poloha Y
-	Preferences	Nastavení
-	Preferences…	Nastavení…
-	Preset	Předvolba
 	Press	Stisknutí
 	Press the new keys for {action}. Esc cancels.	Stiskněte novou zkratku pro {action}. Esc zruší změnu.
 	Pressed and released on it	Stisknutí a uvolnění nad objektem
@@ -1117,7 +1114,7 @@
 	Remove tween	Odebrat interpolaci
 	Remove {filter}	Odebrat filtr {filter}
 	Remove {filter} colour stop	Odebrat barevnou zarážku filtru {filter}
-	Removed frame — {undo} to undo	Snímek odstraněn — {undo} pro vrácení změny
+	Removed frame — {undo} to undo	Snímek odstraněn — {undo} vrátí změnu
 	Removed shape hint {letter}. {undo} to undo.	Značka tvaru {letter} odebrána. {undo} vrátí změnu.
 	Removed the actions — {undo} to undo	Akce odebrány — {undo} vrátí změnu
 	Removed the click event — {undo} to undo	Událost kliknutí odebrána — {undo} vrátí změnu
@@ -1183,7 +1180,7 @@
 	Sample animation	Ukázková animace
 	Sample rate	Vzorkovací frekvence
 	Save Brush	Uložit štětec
-	Save Preset	Uložit předvolbu
+	Save Preset	Uložit přednastavení
 	Save Template	Uložit šablonu
 	Save changes to “{name}” before closing?	Uložit změny dokumentu „{name}“ před zavřením?
 	Save document as	Uložit dokument jako
@@ -1193,7 +1190,7 @@
 	Save your work and stop running tasks before installing an update.	Před instalací aktualizace uložte práci a zastavte běžící úlohy.
 	Saved documents and exports go where you type in the save box; a plain name lands in the folder AniCraft was started from.	Dokumenty a exporty se ukládají na cestu zadanou v dialogu uložení; samotný název znamená složku, ze které byl AniCraft spuštěn.
 	Saved the brush “{name}” to your brushes.	Štětec „{name}“ uložen mezi vaše štětce.
-	Saved the preset “{name}”	Předvolba „{name}“ uložena
+	Saved the preset “{name}”	Přednastavení „{name}“ uloženo
 	Saved the template “{name}”. File › New from Template starts a document from it.	Šablona „{name}“ uložena. Nový dokument z ní vytvoříte přes Soubor › Nový ze šablony.
 	Saved {path}	Uloženo: {path}
 	Saved {path} to your downloads	Soubor {path} byl uložen do stažených souborů
@@ -1204,7 +1201,7 @@
 	Scale to the browser window	Přizpůsobit oknu prohlížeče
 	Scale width	Změnit šířku
 	Scaled instances keep the corners outside the guides unscaled, stretch the edges one way and the centre both ways (for buttons and panels). Edit the symbol to drag the guides	Při změně velikosti instance zůstanou rohy vně vodítek nezměněné, okraje se roztáhnou v jednom směru a střed v obou směrech (pro tlačítka a panely). Vodítka přesunete při úpravě symbolu
-	Scanning installed fonts…	Vyhledávám nainstalovaná písma…
+	Scanning installed fonts…	Probíhá vyhledávání nainstalovaných písem…
 	Scene	Scéna
 	Screenshots	Snímky obrazovky
 	Script	Skript
@@ -1278,7 +1275,7 @@
 	Social square	Čtverec pro sociální sítě
 	Soft	Lehký přítlak
 	Solid	Plná
-	Solid, dashed or dotted	Plná, čárkovaná nebo tečkovaná čára
+	Solid, dashed or dotted	Plný, čárkovaný nebo tečkovaný tah
 	Some plug-ins could not be loaded: {list}	Některé zásuvné moduly se nepodařilo načíst: {list}
 	Sound	Zvuk
 	Sound Settings	Nastavení zvuku
@@ -1307,7 +1304,7 @@
 	Start	Spuštění
 	Start Screen	Úvodní obrazovka
 	Start a bone on a symbol instance (convert artwork with F8), then drag to the instance it moves.	Začněte kost na instanci symbolu (kresbu převedete pomocí F8) a táhněte k instanci, kterou má pohybovat.
-	Starting the graphics card…	Spouštím grafickou kartu…
+	Starting the graphics card…	Probíhá spouštění grafické karty…
 	Static text	Statický text
 	Static text is drawn as laid out. Scripts set dynamic text while the movie plays; viewers type into input text.	Statický text se vykresluje podle svého rozložení. Dynamický text mění skripty za přehrávání; do vstupního textu píší diváci.
 	Step one frame	Posunout o jeden snímek
@@ -1315,7 +1312,7 @@
 	Stop after the frame being made; formats not started don't run	Zastavit po dokončení právě vytvářeného snímku; dosud nezahájené formáty se nespustí
 	Stop colour (this stop stays transparent)	Barva zarážky (tato zarážka zůstává průhledná)
 	Stop the preview	Zastavit náhled
-	Stopping…	Zastavuji…
+	Stopping…	Probíhá zastavování…
 	Stops this sound	Zastaví tento zvuk
 	Storyboard	Obrazový scénář
 	Storyboard 16:9	Obrazový scénář 16:9
@@ -1323,16 +1320,16 @@
 	Straighten	Narovnat
 	Straighten Path	Narovnat cestu
 	Straighten motion path	Narovnat dráhu pohybu
-	Stream	Proud
-	Stroke Style	Styl obrysu
-	Stroke cap	Zakončení čáry
-	Stroke colour	Barva obrysu
-	Stroke join	Spojení čar
-	Stroke on/off	Zapnout/vypnout obrys
-	Stroke style	Styl obrysu
-	Stroke width	Tloušťka obrysu
-	Stroke width profile	Profil tloušťky obrysu
-	Strokes	Čáry
+	Stream	Stream
+	Stroke Style	Styl tahu
+	Stroke cap	Zakončení tahu
+	Stroke colour	Barva tahu
+	Stroke join	Spojení tahů
+	Stroke on/off	Zapnout/vypnout tah
+	Stroke style	Styl tahu
+	Stroke width	Šířka tahu
+	Stroke width profile	Profil šířky tahu
+	Strokes	Tahy
 	Subselect	Vybrat uzly
 	Subselect Rectangle	Vybrat uzly obdélníkem
 	Subselection	Výběr uzlů
@@ -1431,7 +1428,7 @@
 	This scene	Tato scéna
 	This span has no motion tween. Create one to animate its object property by property.	Tento úsek nemá pohybovou interpolaci. Vytvořte ji, abyste mohli animovat jednotlivé vlastnosti objektu.
 	This span is empty. Draw or place an object, then create a motion tween.	Tento úsek je prázdný. Nakreslete nebo umístěte objekt a poté vytvořte pohybovou interpolaci.
-	Tied to the frames: plays over this span and follows the playhead (lip sync)	Vázáno na snímky: přehrává se v tomto úseku a sleduje přehrávací hlavu (synchronizace řeči)
+	Tied to the frames: plays over this span and follows the playhead (lip sync)	Vázáno na snímky: přehrává se v tomto úseku a sleduje přehrávací hlavu (synchronizace rtů)
 	Time at the playhead	Čas v poloze přehrávací hlavy
 	Times it plays	Počet přehrání
 	Times it plays in a row	Počet přehrání za sebou
@@ -1479,8 +1476,8 @@
 	Up/Down choose · Enter run · Esc close	Šipkami nahoru/dolů vyberete · Enter spustí · Esc zavře
 	Up: the button as it first shows	Výchozí: počáteční vzhled tlačítka
 	Update and restart	Aktualizovat a restartovat
-	Update ready. Restarting…	Aktualizace připravena. Restartuji…
-	Updated the preset “{name}”	Předvolba „{name}“ aktualizována
+	Update ready. Restarting…	Aktualizace připravena. Probíhá restart…
+	Updated the preset “{name}”	Přednastavení „{name}“ aktualizováno
 	Updated to {version}.	Aktualizováno na {version}.
 	Updated {name} {version} — find it in Commands › Plug-ins	Aktualizováno: {name} {version} — najdete v Příkazy › Zásuvné moduly
 	Use	Použít
@@ -1530,12 +1527,12 @@
 	Width at Point	Šířka v bodě
 	Window › Brush Library: every brush with a preview, and your own	Okno › Knihovna štětců: všechny štětce s náhledem včetně vašich vlastních
 	Without a pen: drawing faster makes the stroke thinner, as a pen pressed lightly would. Pen tilt is not read yet	Bez pera: rychlejší kreslení vytváří tenčí tah, podobně jako lehký přítlak pera. Náklon pera se zatím nesnímá
-	Working…	Pracuji…
+	Working…	Probíhá zpracování…
 	Wrap	Zalamovat
 	Wrap lines at a fixed width; off, each paragraph stays on one line	Zalamovat řádky na pevnou šířku; při vypnutí zůstane každý odstavec na jednom řádku
 	Writes your brushes to a brush set file, to use on another computer	Uloží vaše štětce do souboru sady štětců pro použití v jiném počítači
 	You have unsaved changes.	Máte neuložené změny.
-	You have {n} presets, the most there can be: delete one first	Máte {n} předvoleb, což je maximum: nejprve některou odstraňte
+	You have {n} presets, the most there can be: delete one first	Máte {n} přednastavení, což je maximum: nejprve některé odstraňte
 	You're up to date.	Používáte nejnovější verzi.
 	Your brush. Right-click to rename, export or delete it.	Váš štětec. Pravým kliknutím jej přejmenujete, exportujete nebo odstraníte.
 	Your brushes	Vaše štětce
@@ -1550,7 +1547,7 @@
 	blank keyframe	prázdný klíčový snímek
 	broken tween	poškozená interpolace
 	by {author} · {id} · {size} KB	autor: {author} · {id} · {size} KB
-	cache {frames} fr · {size} MB · {hit}% hit	mezipaměť {frames} sn. · {size} MB · {hit}% úspěšnost
+	cache {frames} fr · {size} MB · {hit}% hit	mezipaměť {frames} sn. · {size} MB · {hit} % úspěšnost
 	cancelling	rušení
 	changes	změny
 	classic tween	klasická interpolace
@@ -1631,8 +1628,8 @@
 	{filter} blur X	{filter}: rozostření X
 	{filter} blur Y	{filter}: rozostření Y
 	{filter} colour	{filter}: barva
-	{filter} colour stop {stop} at {at}%	{filter}: barevná zarážka {stop} na {at}%
-	{filter} colour stop {stop} at {at}% (fixed)	{filter}: barevná zarážka {stop} na {at}% (pevná)
+	{filter} colour stop {stop} at {at}%	{filter}: barevná zarážka {stop} na {at} %
+	{filter} colour stop {stop} at {at}% (fixed)	{filter}: barevná zarážka {stop} na {at} % (pevná)
 	{filter} distance	{filter}: vzdálenost
 	{filter} gradient: add a colour stop	{filter}: přidat barevnou zarážku do přechodu
 	{filter} highlight colour	{filter}: barva osvětlené hrany
@@ -1721,7 +1718,7 @@
 @plural	AniCraft didn't close properly last time. This document had changes that weren't saved:|AniCraft didn't close properly last time. These documents had changes that weren't saved:	AniCraft se minule neukončil správně. Tento dokument obsahoval neuložené změny:|AniCraft se minule neukončil správně. Tyto dokumenty obsahovaly neuložené změny:|AniCraft se minule neukončil správně. Tyto dokumenty obsahovaly neuložené změny:
 @plural	Applied the picked bitmap fill to {n} shape. {undo} to undo.|Applied the picked bitmap fill to {n} shapes. {undo} to undo.	Nabraná bitmapová výplň použita na {n} tvar. {undo} vrátí změnu.|Nabraná bitmapová výplň použita na {n} tvary. {undo} vrátí změnu.|Nabraná bitmapová výplň použita na {n} tvarů. {undo} vrátí změnu.
 @plural	Applied the picked fill {color} to {n} shape. {undo} to undo.|Applied the picked fill {color} to {n} shapes. {undo} to undo.	Nabraná výplň {color} použita na {n} tvar. {undo} vrátí změnu.|Nabraná výplň {color} použita na {n} tvary. {undo} vrátí změnu.|Nabraná výplň {color} použita na {n} tvarů. {undo} vrátí změnu.
-@plural	Applied the picked line {color}, {width} px to {n} shape. {undo} to undo.|Applied the picked line {color}, {width} px to {n} shapes. {undo} to undo.	Nabraná čára {color}, {width} px použita na {n} tvar. {undo} vrátí změnu.|Nabraná čára {color}, {width} px použita na {n} tvary. {undo} vrátí změnu.|Nabraná čára {color}, {width} px použita na {n} tvarů. {undo} vrátí změnu.
+@plural	Applied the picked line {color}, {width} px to {n} shape. {undo} to undo.|Applied the picked line {color}, {width} px to {n} shapes. {undo} to undo.	Nabraný tah {color}, {width} px použit na {n} tvar. {undo} vrátí změnu.|Nabraný tah {color}, {width} px použit na {n} tvary. {undo} vrátí změnu.|Nabraný tah {color}, {width} px použit na {n} tvarů. {undo} vrátí změnu.
 @plural	Applied the picked linear gradient to {n} shape. {undo} to undo.|Applied the picked linear gradient to {n} shapes. {undo} to undo.	Nabraný lineární přechod použit na {n} tvar. {undo} vrátí změnu.|Nabraný lineární přechod použit na {n} tvary. {undo} vrátí změnu.|Nabraný lineární přechod použit na {n} tvarů. {undo} vrátí změnu.
 @plural	Applied the picked radial gradient to {n} shape. {undo} to undo.|Applied the picked radial gradient to {n} shapes. {undo} to undo.	Nabraný radiální přechod použit na {n} tvar. {undo} vrátí změnu.|Nabraný radiální přechod použit na {n} tvary. {undo} vrátí změnu.|Nabraný radiální přechod použit na {n} tvarů. {undo} vrátí změnu.
 @plural	Autosaved {when} · {n} frame · {scenes} scenes|Autosaved {when} · {n} frames · {scenes} scenes	Automaticky uloženo {when} · {n} snímek · scény: {scenes}|Automaticky uloženo {when} · {n} snímky · scény: {scenes}|Automaticky uloženo {when} · {n} snímků · scény: {scenes}
@@ -1773,8 +1770,8 @@
 @plural	Stage · {tool} tool · frame {frame} · {n} element selected|Stage · {tool} tool · frame {frame} · {n} elements selected	Pracovní plocha · nástroj {tool} · snímek {frame} · vybrán {n} prvek|Pracovní plocha · nástroj {tool} · snímek {frame} · vybrány {n} prvky|Pracovní plocha · nástroj {tool} · snímek {frame} · vybráno {n} prvků
 @plural	The first {n} result|The first {n} results	První {n} výsledek|První {n} výsledky|Prvních {n} výsledků
 @plural	The first {n} row|The first {n} rows	První {n} řádek|První {n} řádky|Prvních {n} řádků
-@plural	a stream looping over its {n}-frame span|a stream looping over its {n}-frame span	proud opakovaný v úseku o délce {n} snímku|proud opakovaný v úseku o délce {n} snímků|proud opakovaný v úseku o délce {n} snímků
-@plural	a stream, within its {n}-frame span|a stream, within its {n}-frame span	proud v úseku o délce {n} snímku|proud v úseku o délce {n} snímků|proud v úseku o délce {n} snímků
+@plural	a stream looping over its {n}-frame span|a stream looping over its {n}-frame span	streamovaný zvuk opakovaný v úseku o délce {n} snímku|streamovaný zvuk opakovaný v úseku o délce {n} snímků|streamovaný zvuk opakovaný v úseku o délce {n} snímků
+@plural	a stream, within its {n}-frame span|a stream, within its {n}-frame span	streamovaný zvuk v úseku o délce {n} snímku|streamovaný zvuk v úseku o délce {n} snímků|streamovaný zvuk v úseku o délce {n} snímků
 @plural	looping to the end of the movie, {n} frame on|looping to the end of the movie, {n} frames on	opakování do konce animace, zbývá {n} snímek|opakování do konce animace, zbývají {n} snímky|opakování do konce animace, zbývá {n} snímků
 @plural	on {n} layer|on {n} layers	v {n} vrstvě|ve {n} vrstvách|v {n} vrstvách
 @plural	played {n} time|played {n} times	přehráno {n}krát|přehráno {n}krát|přehráno {n}krát
@@ -1818,3 +1815,950 @@ button state	Over	Pod ukazatelem
 button state	Up	Výchozí
 left channel	L	L
 right channel	R	P
+
+# Additional interface strings from AniCraft 2cd14de.
+# Template order is retained within each group.
+
+# Colours, gradients, swatches and filters
+	A bitmap fill can't be a swatch: swatches hold colours and gradients.	Bitmapovou výplň nelze přidat do vzorníku: vzorník uchovává barvy a přechody.
+	A solid colour, from clear to opaque	Jedna barva, od průhledné po neprůhlednou
+	Add Swatch	Přidat položku vzorníku
+	Add the copied filters after these	Přidat zkopírované filtry za tyto filtry
+	Add the fill as a swatch	Přidat výplň do vzorníku
+	Add the presets in a filter preset file (.json)	Přidat přednastavení ze souboru přednastavení filtrů (.json)
+	Add the stroke colour as a swatch	Přidat barvu tahu do vzorníku
+	Add the swatches in a swatch file (.json) or a GIMP palette (.gpl)	Přidat položky ze souboru vzorníku (.json) nebo palety GIMP (.gpl)
+	Alpha: 0 % is clear, 100 % opaque	Alfa: 0 % je průhledné, 100 % neprůhledné
+	Any colour: hue, saturation and brightness	Libovolná barva: odstín, sytost a jas
+	Apply Filter Preset	Použít přednastavení filtrů
+	Apply Swatch	Použít položku vzorníku
+	Apply to Fill	Použít na výplň
+	Apply to Stroke	Použít na tah
+	Apply: {filters} (replaces the filters)	Použít: {filters} (nahradí filtry)
+	Back to the stage as it is: centred, 100 %, no turn, no colour effect	Vrátit pohled na pracovní plochu: střed, 100 %, bez otočení a barevného efektu
+	Bitmap fill: a Library image, tiled	Bitmapová výplň: dlaždicově opakovaný obrázek z knihovny
+	Black and White	Černá a bílá
+	Blur X	Rozostření X
+	Blur Y	Rozostření Y
+	Built-in Presets	Vestavěná přednastavení
+	Clear Swatches	Vymazat vzorník
+	Click a shape with a gradient or bitmap fill to show its handles. Drag the centre to move the fill, the square to change its width, the circle to change its size, the knob to rotate it (Shift: 15° steps) and, on a radial gradient, the triangle to move its focal point. A bitmap fill also has a square for its height and diamonds to skew it. Each drag is one undo step.	Kliknutím na tvar s přechodovou nebo bitmapovou výplní zobrazíte její táhla. Tažením středu výplň přesunete, čtvercem změníte její šířku, kruhem velikost, otočným táhlem ji otočíte (Shift: kroky po 15°) a trojúhelníkem u radiálního přechodu posunete ohnisko. Bitmapová výplň má také čtverec pro výšku a kosočtverce pro zkosení. Každé tažení je jeden krok zpět.
+	Click to add a colour stop. Drag a stop to move it, or off the bar to remove it. With a stop focused, the arrow keys move it and Delete removes it.	Kliknutím přidáte barevnou zarážku. Tažením ji přesunete, přetažením mimo pruh odstraníte. Je-li zarážka zaměřená, šipky ji posouvají a Delete ji odstraní.
+	Click to apply; drag to move; right-click for more.	Kliknutím použijete; tažením přesunete; pravým kliknutím zobrazíte další možnosti.
+	Click to set the fill	Kliknutím nastavíte výplň
+	Click to set the stroke	Kliknutím nastavíte tah
+	Colour picker	Výběr barvy
+	Colour stop position	Poloha barevné zarážky
+	Colour stop {stop} of {count} at {at}%, alpha {alpha}%	Barevná zarážka {stop} z {count} na {at} %, alfa {alpha} %
+	Colour swatches	Vzorník barev
+	Colour swatches and the document's swatches	Vzorník barev a vzorník dokumentu
+	Colours you mix or type show here	Zde se zobrazují barvy, které namícháte nebo zadáte
+	Copy All Filters	Kopírovat všechny filtry
+	Copy Filter	Kopírovat filtr
+	Copy Filters	Kopírovat filtry
+	Default Swatches	Výchozí vzorník
+	Delete Filter Preset	Odstranit přednastavení filtrů
+	Delete Swatch	Odstranit položku vzorníku
+	Delete the selected swatch	Odstranit vybranou položku vzorníku
+	Disable All	Vypnout vše
+	Document swatches (Window › Swatches)	Vzorník dokumentu (Okno › Vzorník)
+	Drag to change the order (filters apply from the top down)	Tažením změníte pořadí (filtry se aplikují shora dolů)
+	Draw without this colour	Kreslit bez této barvy
+	Duplicate Swatch	Duplikovat položku vzorníku
+	Duplicate the selected swatch	Duplikovat vybranou položku vzorníku
+	Enable All	Zapnout vše
+	Enable Filter	Zapnout filtr
+	Engrave	Rytina
+	Export Filter Presets	Exportovat přednastavení filtrů
+	Export Presets…	Exportovat přednastavení…
+	Export Swatches	Exportovat vzorník
+	Export Swatches…	Exportovat vzorník…
+	Export swatches (a swatch file)	Exportovat vzorník (soubor vzorníku)
+	Export your filter presets (a preset file)	Exportovat vaše přednastavení filtrů (soubor přednastavení)
+	Extend	Prodloužit
+	Fill bitmap	Bitmapa výplně
+	Fill colour picker	Výběr barvy výplně
+	Fill colour: click to pick the colour and how clear it is. Each stop of a gradient has its own.	Barva výplně: kliknutím vyberete barvu a průhlednost. Každá zarážka přechodu má vlastní nastavení.
+	Fill type: {kind}	Typ výplně: {kind}
+	Fill: click for its colour and how clear it is, or a gradient or bitmap fill	Výplň: kliknutím vyberete barvu a průhlednost nebo přechodovou či bitmapovou výplň
+	Filter Presets	Přednastavení filtrů
+	Filter colour keyframe	Klíčový snímek barvy filtru
+	Filter options: copy, paste, enable, disable, remove	Možnosti filtru: kopírovat, vložit, zapnout, vypnout, odebrat
+	Filter preset file	Soubor přednastavení filtrů
+	Filter preset name	Název přednastavení filtrů
+	Filter presets: apply, save, rename, delete, import, export	Přednastavení filtrů: použít, uložit, přejmenovat, odstranit, importovat, exportovat
+	Focal point	Ohnisko
+	Gradient Transform	Transformace přechodu
+	Gradient swatch: {name}	Položka vzorníku s přechodem: {name}
+	Gradient swatches	Přechody ve vzorníku
+	Gradient: add a colour stop	Přechod: přidat barevnou zarážku
+	Greyscale	Stupně šedi
+	Hard Shadow	Ostrý stín
+	Hex colour	Barva v šestnáctkovém zápisu
+	Hex colour: #rrggbb	Barva v šestnáctkovém zápisu: #rrggbb
+	Hex colour: #rrggbb, or #rrggbbaa with alpha	Barva v šestnáctkovém zápisu: #rrggbb nebo #rrggbbaa s alfa kanálem
+	Hide Built-in Filter Preset	Skrýt vestavěné přednastavení filtrů
+	Import Filter Presets	Importovat přednastavení filtrů
+	Import Presets…	Importovat přednastavení…
+	Import Swatches	Importovat vzorník
+	Import Swatches…	Importovat vzorník…
+	Import an image into the Library first (File › Import › Import to Library), then fill with it.	Nejprve importujte obrázek do knihovny (Soubor › Import › Importovat do knihovny), poté jej použijte jako výplň.
+	Import filter presets (a preset file)	Importovat přednastavení filtrů (soubor přednastavení)
+	Import swatches (a swatch file or a GIMP palette)	Importovat vzorník (soubor vzorníku nebo paleta GIMP)
+	Keep these filters under a name, for any document	Uložit tyto filtry pod názvem pro použití v libovolném dokumentu
+	Linear RGB	Lineární RGB
+	Linear gradient, {n} colours	Lineární přechod, počet barev: {n}
+	Linear gradient: colours along a line	Lineární přechod: barvy podél přímky
+	Load Default Swatches	Načíst výchozí vzorník
+	Mix the colours in linear light: brighter, more even blends	Míchat barvy v lineárním světle: jasnější a rovnoměrnější přechody
+	Mixer	Míchání barev
+	Move Filter	Přesunout filtr
+	Move Swatch	Přesunout položku vzorníku
+	Move {filter}: drag, or {up} and {down}	Přesunout filtr {filter}: tažením nebo pomocí {up} a {down}
+	No colour	Žádná barva
+	No fill	Žádná výplň
+	No fill. Choose a type above to fill again.	Bez výplně. Pro opětovné vyplnění vyberte typ výše.
+	No presets yet. Set up filters, then Save as Preset.	Zatím žádná přednastavení. Nastavte filtry a poté zvolte Uložit jako přednastavení.
+	No swatches. Add the current colour with +, or load the defaults from the menu.	Vzorník je prázdný. Přidejte aktuální barvu pomocí + nebo z nabídky načtěte výchozí barvy.
+	On: a gradient or bitmap is poured where it lies on the stage, so it runs on across shapes. Off: each shape gets it fitted to its own bounds.	Zapnuto: přechod nebo bitmapa se nanáší podle své polohy na pracovní ploše, takže navazuje napříč tvary. Vypnuto: každému tvaru se přizpůsobí podle jeho vlastních hranic.
+	Or click anything on the stage to take its colour.	Nebo kliknutím na cokoli na pracovní ploše naberte jeho barvu.
+	Overflow	Přesah
+	Past its ends the gradient keeps its end colours	Za konci přechodu zůstávají jeho koncové barvy
+	Past its ends the gradient mirrors back and forth	Za konci se přechod střídavě zrcadlí
+	Past its ends the gradient starts again	Za konci se přechod opakuje od začátku
+	Paste Filters	Vložit filtry
+	Picked {colour} from the stage.	Z pracovní plochy nabrána barva {colour}.
+	Position, rotation, scale, colour and filters each with their own ease	Poloha, otočení, měřítko, barva a filtry, každé s vlastním průběhem interpolace
+	Radial gradient, {n} colours	Radiální přechod, počet barev: {n}
+	Radial gradient: colours out from a centre	Radiální přechod: barvy směrem od středu
+	Reflect	Zrcadlit
+	Remove All	Odebrat vše
+	Remove Filter	Odebrat filtr
+	Remove every swatch but black and white	Odebrat všechny položky vzorníku kromě černé a bílé
+	Remove this colour stop (or drag it off the bar)	Odebrat tuto barevnou zarážku (nebo ji přetáhněte mimo pruh)
+	Rename Filter Preset	Přejmenovat přednastavení filtrů
+	Rename Preset	Přejmenovat přednastavení
+	Rename Swatch	Přejmenovat položku vzorníku
+	Replace these swatches with a new document's set	Nahradit tyto položky vzorníku sadou nového dokumentu
+	Sample Colour	Nabrat barvu
+	Save Filter Preset	Uložit přednastavení filtrů
+	Save as Preset…	Uložit jako přednastavení…
+	Save these swatches as a swatch file (.json) for other documents	Uložit tyto položky jako soubor vzorníku (.json) pro jiné dokumenty
+	Scale, turn and skew it with the Gradient Transform tool (F).	Nástrojem Transformace přechodu (F) změníte velikost, otočení a zkosení.
+	Set in the colour picker or picked with the Eyedropper. Choose Solid in the picker to fill with a colour again.	Nastaveno ve výběru barvy nebo nabráno Kapátkem. Chcete-li znovu vyplňovat barvou, zvolte ve výběru barvy Plná.
+	Show the built-in preset {name}	Zobrazit vestavěné přednastavení {name}
+	Soft Focus	Jemné rozostření
+	Soft Shadow	Měkký stín
+	Stop {stop} at	Zarážka {stop} na
+	Stroke colour: click to pick the colour and how clear it is	Barva tahu: kliknutím vyberete barvu a průhlednost
+	Strokes are one colour	Tahy jsou jednobarevné
+	Swap Colours	Zaměnit barvy
+	Swap the stroke and fill colours	Zaměnit barvy tahu a výplně
+	Swatch clicks set the fill: a colour or a gradient	Kliknutí ve vzorníku nastavuje výplň: barvu nebo přechod
+	Swatch clicks set the stroke colour (gradients still go to the fill)	Kliknutí ve vzorníku nastavuje barvu tahu (přechody se stále používají na výplň)
+	Swatch file	Soubor vzorníku
+	Swatch file or GIMP palette	Soubor vzorníku nebo paleta GIMP
+	Swatch name	Název položky vzorníku
+	Swatch options: import, export, defaults	Možnosti vzorníku: import, export, výchozí barvy
+	Swatch {n}: {name}	Položka vzorníku {n}: {name}
+	Swatches set the	Vzorník nastavuje
+	That fill is a solid colour. Click its Fill swatch and choose Linear, Radial or Bitmap to give it a gradient.	Tato výplň je jednobarevná. Klikněte na její pole Výplň a vyberte přechod nebo bitmapu (Lineární, Kruhové nebo Bitmapa).
+	The web-safe palette and the colours used lately	Paleta bezpečných barev pro web a naposledy použité barvy
+	There is no colour role named "{role}".	Barevný prvek s názvem „{role}“ neexistuje.
+	Turn Off	Vypnout
+	Turn On	Zapnout
+	Turn {filter} off (it keeps its settings)	Vypnout filtr {filter} (zachová si nastavení)
+	Turn {filter} on	Zapnout filtr {filter}
+	Untick one to hide it from this menu	Zrušením zaškrtnutí skryjete položku z této nabídky
+	Where the ramp starts, from the centre along the gradient's axis (drag the triangle with the Gradient Transform tool)	Začátek barevného přechodu měřený od středu podél osy přechodu (táhněte za trojúhelník nástrojem Transformace přechodu)
+	Write your filter presets to a file, to use on another computer	Zapsat vaše přednastavení filtrů do souboru pro použití na jiném počítači
+	Yours	Vlastní
+	no name	bez názvu
+	{filter} (off)	{filter} (vypnuto)
+	{filter}: {colour}	{filter}: {colour}
+	{filter}: {property}	{filter}: {property}
+	{hex}, a document swatch	{hex}, položka vzorníku dokumentu
+	{name} ({hex}), a document swatch	{name} ({hex}), položka vzorníku dokumentu
+@plural	Copied {n} filter.|Copied {n} filters.	Zkopírován {n} filtr.|Zkopírovány {n} filtry.|Zkopírováno {n} filtrů.
+@plural	Paste {n} Filter|Paste {n} Filters	Vložit {n} filtr|Vložit {n} filtry|Vložit {n} filtrů
+
+# Drawing, text and transformations
+	A black stroke and a white fill	Černý tah a bílá výplň
+	A leaning pen paints wider, up to twice as wide lying flat	Nakloněné pero kreslí širší tah, při vodorovné poloze až dvojnásobný
+	A paper grain shows through the paint, like charcoal on rough paper. The grain stays put on the stage, so strokes over each other share it	Barvou prosvítá textura papíru jako při kreslení uhlem na hrubý papír. Textura zůstává na pracovní ploše na místě, takže ji překrývající se tahy sdílejí
+	A soft, broad stroke with the paper's grain showing through; it follows the pen's tilt.	Měkký široký tah s prosvítající texturou papíru; reaguje na náklon pera.
+	Add Corner Point	Přidat rohový bod
+	Attach Text to Path	Připojit text k cestě
+	Attach to Path	Připojit k cestě
+	Attach to Path cancelled.	Připojení k cestě zrušeno.
+	Back to lines of text, where the text starts	Vrátit text do řádků na místo, kde začíná
+	Changes apply to the selection and to new drawing.	Změny se použijí na výběr i na novou kresbu.
+	Character position	Poloha znaků
+	Charcoal	Uhel
+	Click a shape to set the text along its outline. Esc cancels.	Kliknutím na tvar umístíte text podél jeho obrysu. Esc akci zruší.
+	Click a shape…	Klikněte na tvar…
+	Click to place corner points, drag to pull smooth handles (Alt moves one handle, Shift keeps 45° steps). Click the first point to close; Enter, Esc or a double-click finishes. Click the last point to make it a corner, drag from it for a new handle, Alt-drag it to draw its curve again; Backspace removes it. On a selected path: click a point to make it a corner and again to delete it, click the outline to add a point, click an open end to continue it. Ctrl-click a path to select it. Points snap to points and lines while Snap to Objects is on.	Kliknutím umístíte rohové body, tažením vytáhnete hladká táhla (Alt posouvá jedno táhlo, Shift drží směr po 45°). Kliknutím na první bod cestu uzavřete; Enter, Esc nebo dvojklik kreslení ukončí. Kliknutím na poslední bod z něj uděláte roh, tažením z něj vytvoříte nové táhlo, Alt+tažením znovu nakreslíte jeho křivku; Backspace jej odebere. Na vybrané cestě: kliknutím na bod z něj uděláte roh a dalším kliknutím jej odstraníte, kliknutím na obrys přidáte bod, kliknutím na otevřený konec pokračujete v kreslení. Ctrl+klik vybere cestu. Při zapnuté volbě Přichytávat k objektům se body přichytávají k bodům a čarám.
+	Combine Objects	Zkombinovat objekty
+	Continue Path	Pokračovat v cestě
+	Continuing the path: click to add points, Enter to finish.	Pokračování cesty: kliknutím přidávejte body, Enter kreslení dokončí.
+	Convert Lines to Fills	Převést čáry na výplně
+	Copied from AniCraft	Zkopírováno z AniCraftu
+	Copy of {name}	Kopie motivu {name}
+	Drag from the centre to draw a star or a polygon (Shape in the options).	Tažením od středu nakreslíte hvězdu nebo mnohoúhelník (Tvar ve volbách).
+	Drag the handles to bend the shapes. Squares move a corner, circles bend a side.	Tažením táhel ohnete tvary. Čtverce posouvají roh, kruhy ohýbají stranu.
+	Drawing Object	Objekt kresby
+	Draws a regular polygon.	Kreslí pravidelný mnohoúhelník.
+	Draws a star.	Kreslí hvězdu.
+	Drops of paint thrown either side of the stroke.	Kapky barvy rozstřikované po obou stranách tahu.
+	Each step is a band of the fill's colour, fainter the farther out. Works best on a fill without an outline.	Každý krok je pás v barvě výplně, směrem ven stále slabší. Nejlépe funguje na výplni bez obrysu.
+	Erased the lines and fills. {undo} to undo. Symbols and drawing objects are kept: double-click one with the Selection tool to erase inside it.	Čáry a výplně vymazány. {undo} vrátí změnu. Symboly a objekty kresby zůstaly zachovány: dvojklikem nástrojem Výběr otevřete jejich obsah k mazání.
+	Expand Fill	Rozšířit výplň
+	Expand Fill…	Rozšířit výplň…
+	First-line indent	Odsazení prvního řádku
+	How deep the points are: near 0 they are thin spikes, at 1 the star is the polygon through its tips.	Hloubka cípů: poblíž 0 jsou to tenké hroty, při 1 je hvězda mnohoúhelníkem spojujícím jejich špičky.
+	How far the fill's edge moves, in stage pixels	Vzdálenost posunu okraje výplně v pixelech pracovní plochy
+	How many bands the soft edge is made of: more are smoother, and more shapes to draw	Počet pásů tvořících měkký okraj: více pásů je plynulejších, ale znamená více tvarů k vykreslení
+	How wide the soft edge is, in stage pixels	Šířka měkkého okraje v pixelech pracovní plochy
+	Indent	Odsazení
+	Inset	Zúžit
+	Expand	Rozšířit
+	Left margin	Levý okraj
+	Lock Fill	Zamknout výplň
+	Lock fill	Zamknout výplň
+	Lock scale	Zamknout měřítko
+	Made a corner point. Click it again to delete it. {undo} to undo.	Bod změněn na rohový. Dalším kliknutím jej odstraníte. {undo} vrátí změnu.
+	Move Transformation Point	Posunout transformační bod
+	New shapes and text use these colours.	Nové tvary a text používají tyto barvy.
+	Next Transformation Origin	Další počátek transformace
+	Nothing erased: on the stage the Eraser keeps symbols. Double-click one with the Selection tool to erase inside it.	Nic nebylo vymazáno: Guma na pracovní ploše zachovává symboly. Dvojklikem nástrojem Výběr otevřete symbol k mazání uvnitř.
+	Nothing erased: the Eraser keeps drawing objects. Double-click one with the Selection tool to erase inside it.	Nic nebylo vymazáno: Guma zachovává objekty kresby. Dvojklikem nástrojem Výběr otevřete objekt k mazání uvnitř.
+	Nothing erased: the Eraser keeps symbols and drawing objects. Double-click one with the Selection tool to erase inside it.	Nic nebylo vymazáno: Guma zachovává symboly a objekty kresby. Dvojklikem nástrojem Výběr otevřete objekt k mazání uvnitř.
+	Nothing painted: Paint Inside paints only inside the fill where the stroke starts.	Nic nebylo namalováno: Malovat uvnitř maluje jen ve výplni, kde tah začal.
+	Nothing painted: Paint Selection paints only inside the selected fills. Select them with the Selection tool first.	Nic nebylo namalováno: Malovat výběr maluje jen ve vybraných výplních. Nejprve je vyberte nástrojem Výběr.
+	Number of points	Počet cípů
+	Number of sides	Počet stran
+	Number of steps	Počet kroků
+	Offset along the path	Posun podél cesty
+	Paint Inside	Malovat uvnitř
+	Paint Selection	Malovat výběr
+	Paints only inside the fill where the stroke starts, leaving lines alone. Started on empty stage, it paints only the empty area there.	Maluje jen uvnitř výplně, kde tah začal, a ponechává čáry. Začne-li na prázdné pracovní ploše, maluje jen do tamní prázdné oblasti.
+	Paints only inside the selected fills, leaving lines alone.	Maluje jen uvnitř vybraných výplní a ponechává čáry.
+	Pasted image	Vložený obrázek
+	Pasted the copied picture ({w} × {h} px) — {undo} to undo	Zkopírovaný obrázek vložen ({w} × {h} px) — {undo} vrátí změnu
+	Pivot	Transformační bod
+	Point size	Velikost cípu
+	Punch	Vyříznout
+	Put the transformation point back at the centre	Vrátit transformační bod do středu
+	Reset Transformation Point	Obnovit transformační bod
+	Reset transformation point	Obnovit transformační bod
+	Resize	Změnit velikost
+	Right margin	Pravý okraj
+	Run the text along the path the other way, on its other side	Vést text opačným směrem po druhé straně cesty
+	Scatter	Rozptyl
+	Set Transformation Point	Nastavit transformační bod
+	Side	Strana
+	Sides	Strany
+	Soften Fill Edges	Změkčit okraje výplně
+	Soften Fill Edges…	Změkčit okraje výplně…
+	Star point size	Velikost cípu hvězdy
+	Steps	Kroky
+	Stroke width: drag all the way down for a hairline	Šířka tahu: přetažením na nejnižší hodnotu nastavíte vlasový tah
+	Superscript and subscript	Horní a dolní index
+	Swap	Zaměnit
+	Text Character Style	Znakový styl textu
+	Text Paragraph Style	Odstavcový styl textu
+	Text Styles	Styly textu
+	Text link	Odkaz v textu
+	Text on Path	Text na cestě
+	Text: at the caret	Text: u kurzoru
+	The characters differ here; it shows the first one's. A change applies to all of them	Znaky mají v této vlastnosti různé hodnoty; zobrazuje se hodnota prvního znaku. Změna se použije na všechny
+	The copied picture could not be pasted: {error}	Zkopírovaný obrázek se nepodařilo vložit: {error}
+	The fill grows by the distance; its corners round	Výplň se rozšíří o danou vzdálenost; její rohy se zaoblí
+	The fill shrinks by the distance; its corners stay sharp	Výplň se zmenší o danou vzdálenost; její rohy zůstanou ostré
+	The next segment starts as a corner. Click the point again, or press Enter, to finish.	Další úsek začíná rohem. Dalším kliknutím na bod nebo stisknutím Enter kreslení dokončíte.
+	The pen's tilt turns the tip: the way it leans adds to the brush's angle	Náklon pera otáčí špičkou: směr náklonu se přičítá k úhlu štětce
+	The soft edge is added round the fill	Měkký okraj se přidá kolem výplně
+	The soft edge is taken from the fill, which keeps its size	Měkký okraj se vytvoří uvnitř výplně, která si zachová velikost
+	The text follows the shape's outline. {undo} to undo.	Text sleduje obrys tvaru. {undo} vrátí změnu.
+	Then click a shape on the stage: the text follows its outline (Esc cancels)	Pak klikněte na tvar na pracovní ploše: text sleduje jeho obrys (Esc akci zruší)
+	Throws dabs either side of the stroke, up to this part of the size away, and varies their size: spatter and stipple	Rozhazuje otisky po obou stranách tahu do vzdálenosti dané tímto podílem velikosti a mění jejich velikost: rozstřik a tečkování
+	Transformation origin: {mode}.	Počátek transformace: {mode}.
+	Transformation point X	Souřadnice X transformačního bodu
+	Transformation point Y	Souřadnice Y transformačního bodu
+	Transformed the fill. {undo} to undo.	Výplň transformována. {undo} vrátí změnu.
+	Type on the stage (or double-click the text); select characters to style them on their own	Pište na pracovní ploše (nebo dvojklikněte na text); vyberte znaky, které chcete formátovat samostatně
+	What several selected objects are transformed about. Give Modify › Transform › Next Transformation Origin a key in the shortcut editor to change it from the keyboard.	Bod, kolem kterého se transformuje více vybraných objektů. V editoru zkratek přiřaďte klávesu příkazu Upravit › Transformace › Další počátek transformace, abyste jej mohli měnit z klávesnice.
+	What several selected objects are transformed about. {key} moves to the next choice.	Bod, kolem kterého se transformuje více vybraných objektů. {key} přepne na další možnost.
+	Where the characters link to in SVG and other exports; empty for no link	Cíl odkazu znaků v SVG a dalších exportech; prázdné znamená bez odkazu
+	Where the text sits along the path: its alignment decides whether it starts, is centred or ends there	Umístění textu podél cesty: zarovnání určuje, zda zde text začíná, má střed nebo končí
+	Without a pen: drawing faster makes the stroke thinner, as a pen pressed lightly would	Bez pera: rychlejší kreslení vytváří tenčí tah, podobně jako lehký přítlak pera
+	https://…	https://…
+@plural	Group of {n} item|Group of {n} items	Skupina: {n} položka|Skupina: {n} položky|Skupina: {n} položek
+@plural	Text: {n} character selected|Text: {n} characters selected	Text: vybrán {n} znak|Text: vybrány {n} znaky|Text: vybráno {n} znaků
+
+# Bones, bindings, springs and warp
+	A bone ends on another symbol instance or a shape: release over the one it should move.	Kost končí na jiné instanci symbolu nebo na tvaru: uvolněte ji nad tím, čím má pohybovat.
+	Add Bone in Shape	Přidat kost do tvaru
+	Add Warp Mesh	Přidat deformační síť
+	Add Warp Pin	Přidat deformační bod
+	Added a bone from the shape to the instance: it follows the shape's bones. Drag bones or the instance with the Selection tool to pose them together. {undo} to undo.	Kost přidána ze tvaru k instanci: instance sleduje kosti tvaru. Tažením kostí nebo instance nástrojem Výběr nastavíte jejich společnou pózu. {undo} vrátí změnu.
+	Added a bone inside the shape; its points follow the nearest bones. Drag a bone with the Selection tool to bend it, or adjust the points with the Bind tool. {undo} to undo.	Kost přidána dovnitř tvaru; jeho body sledují nejbližší kosti. Tažením kosti nástrojem Výběr tvar ohnete, případně upravte body nástrojem Vazby. {undo} vrátí změnu.
+	Added a bone to the shape: it moves as a whole. Drag from this bone's end inside the shape to give it bones of its own. {undo} to undo.	Kost přidána ke tvaru: tvar se pohybuje jako celek. Tažením od konce této kosti dovnitř tvaru mu vytvoříte vlastní kosti. {undo} vrátí změnu.
+	Added a bone. Drag a bone or an instance with the Selection tool to pose the armature. {undo} to undo.	Kost přidána. Tažením kosti nebo instance nástrojem Výběr nastavíte pózu kostry. {undo} vrátí změnu.
+	Asset Warp	Deformace objektu
+	Bind	Vazby
+	Bind Points	Přiřadit body
+	Bind Tool	Nástroj Vazby
+	Bind tool	Nástroj Vazby
+	Binds every point of the shape to its nearest bones again, dropping changes made with the Bind tool	Znovu přiřadí všechny body tvaru nejbližším kostem a zruší úpravy provedené nástrojem Vazby
+	Bone Spring	Pružina kosti
+	Bone weight at the point	Váha kosti v bodě
+	Cells along the artwork's longer side: more bends more smoothly, fewer is faster	Počet buněk podél delší strany kresby: více buněk umožní plynulejší ohyby, méně je rychlejší
+	Choose which points of the shape follow this bone	Vybrat body tvaru, které sledují tuto kost
+	Click a shape or a bitmap to pin it (the first pin covers it with a warp mesh). Drag a pin to bend the artwork around the other pins; with one pin it moves. Click a pin and press Delete to remove it. A pin moved at another frame keys it, and pins tween.	Kliknutím na tvar nebo bitmapu přidáte deformační bod (první bod pokryje kresbu deformační sítí). Tažením bodu ohnete kresbu kolem ostatních bodů; s jediným bodem ji přesunete. Bod odstraníte kliknutím na něj a stisknutím Delete. Přesun bodu na jiném snímku vytvoří klíčový snímek a polohy bodů se interpolují.
+	Click a shape or a bitmap with the Asset Warp tool to pin it; drag a pin to bend it around the others.	Kliknutím nástrojem Deformace objektu na tvar nebo bitmapu přidáte deformační bod; tažením bodu kresbu ohnete kolem ostatních bodů.
+	Constrain	Omezit
+	Damping	Tlumení
+	Drag bones with the Selection tool to bend the shape; a pose at another frame keys it, and poses tween.	Tažením kostí nástrojem Výběr ohnete tvar; nastavení pózy na jiném snímku vytvoří klíčový snímek a pózy se interpolují.
+	Drag from one symbol instance to another to join them with a bone (they move to an armature layer), or drag inside a shape to draw a bone in it (the shape bends with its bones); start on a bone's end to continue the chain. Instances and shapes mix: from a shape's bone end, release over an instance to carry it; from an instance, release over a shape, then draw bones inside it from that bone's end. Click a bone to select it. Pose the armature by dragging bones or instances with the Selection tool.	Tažením z jedné instance symbolu na druhou je spojíte kostí (přesunou se do kosterní vrstvy), tažením uvnitř tvaru v něm nakreslíte kost (tvar se ohýbá podle svých kostí); začnete-li na konci kosti, pokračujete v řetězci. Instance a tvary lze kombinovat: od konce kosti ve tvaru táhněte na instanci, kterou má nést; z instance táhněte na tvar a poté od konce této kosti kreslete kosti dovnitř tvaru. Kliknutím vyberete kost. Tažením kostí nebo instancí nástrojem Výběr nastavíte pózu kostry.
+	Drag over the shape to brush this bone's influence onto its points, shown as a heat map: blue none, red all. Off: click or box points to bind them	Tažením přes tvar nanesete štětcem vliv této kosti na jeho body, zobrazený barevnou mapou: modrá znamená žádný vliv, červená plný. Při vypnutí přiřazujete body kliknutím nebo výběrovým rámečkem
+	Drag pins with the Asset Warp tool to bend the artwork; a pin moved at another frame keys it, and pins tween.	Tažením deformačních bodů nástrojem Deformace objektu ohnete kresbu; přesun bodu na jiném snímku vytvoří klíčový snímek a polohy bodů se interpolují.
+	Enable Springs	Zapnout pružiny
+	Enable springs	Zapnout pružiny
+	Evens out the bone's share across the points under the brush, softening a hard edge between bones	Vyrovnává podíl kosti mezi body pod štětcem a změkčuje ostrý přechod mezi kostmi
+	Focused point	Zaměřený bod
+	Follows	Sleduje
+	How far the joint has slid at the playhead, from where it was drawn	Posun kloubu v aktuálním snímku vůči poloze, ve které byl nakreslen
+	How many of the shape's points this bone moves. Adjust them with the Bind tool	Počet bodů tvaru, kterými tato kost pohybuje. Upravíte je nástrojem Vazby
+	How much one dab changes the weights at the brush's centre, 1 to 100; it fades to nothing at the rim	Změna vah jedním otiskem ve středu štětce, od 1 do 100; k okraji postupně klesá na nulu
+	How much this bone moves the point, 0 to 100 %; the point's other bones share the rest	Podíl této kosti na pohybu bodu, od 0 do 100 %; zbytek připadá na ostatní kosti bodu
+	How quickly the spring's swing dies down, 0 to 100: 0 swings on, 100 absorbs it all	Rychlost útlumu kmitání pružiny, od 0 do 100: při 0 kmitá dál, 100 vše pohltí
+	How stiff the bone's spring is, 0 to 100: 0 is no spring; a stiffer spring swings faster and lags less	Tuhost pružiny kosti, od 0 do 100: 0 znamená bez pružiny; tužší pružina kmitá rychleji a méně zaostává
+	Joint Translation	Posun kloubu
+	Joint X translation	Posun kloubu v ose X
+	Joint X translation maximum	Maximální posun kloubu v ose X
+	Joint X translation minimum	Minimální posun kloubu v ose X
+	Joint Y translation	Posun kloubu v ose Y
+	Joint Y translation maximum	Maximální posun kloubu v ose Y
+	Joint Y translation minimum	Minimální posun kloubu v ose Y
+	Joint slide X	Posun kloubu X
+	Joint slide Y	Posun kloubu Y
+	Lets the joint slide along the x axis of what the bone starts on, so the bone can stretch away from it. Posing slides it only where turning can't reach	Umožní kloubu posouvat se podél osy x objektu, na kterém kost začíná, takže se od něj kost může vzdálit. Při nastavování pózy se kloub posune jen tam, kam samotné otáčení nedosáhne
+	Lets the joint slide along the y axis of what the bone starts on, so the bone can stretch away from it. Posing slides it only where turning can't reach	Umožní kloubu posouvat se podél osy y objektu, na kterém kost začíná, takže se od něj kost může vzdálit. Při nastavování pózy se kloub posune jen tam, kam samotné otáčení nedosáhne
+	Limit how far the joint slides, in every pose	Omezit vzdálenost posunu kloubu ve všech pózách
+	Limits X	Meze X
+	Limits Y	Meze Y
+	Lowers how much the bone moves the points under the brush; their other bones take up the rest	Snižuje vliv kosti na body pod štětcem; zbytek přebírají jejich ostatní kosti
+	Mesh resolution	Rozlišení sítě
+	Move Warp Pin	Posunout deformační bod
+	No bone: the point stays where it was drawn	Žádná kost: bod zůstává tam, kde byl nakreslen
+	No points of the bone's shape inside the box.	Uvnitř rámečku nejsou žádné body tvaru této kosti.
+	Paint Weights	Malovat váhy
+	Pick a bone of a shape first (click it), then drag a box around the points it should move.	Nejprve vyberte kost tvaru (kliknutím), pak táhněte rámeček kolem bodů, kterými má pohybovat.
+	Pick a bone of a shape first (click it), then paint its weights.	Nejprve vyberte kost tvaru (kliknutím), pak malujte její váhy.
+	Pick a bone of this shape first (click it), then click the points it should move.	Nejprve vyberte kost tohoto tvaru (kliknutím), pak klikněte na body, kterými má pohybovat.
+	Pin removed. {undo} to undo.	Deformační bod odebrán. {undo} vrátí změnu.
+	Pins	Deformační body
+	Posed by its bone: drag it with the Selection tool. Colour effect, blending and filters apply on every pose of the armature.	Pózu určuje kost: táhněte nástrojem Výběr. Barevný efekt, prolnutí a filtry platí pro každou pózu kostry.
+	Raises how much the bone moves the points under the brush	Zvyšuje vliv kosti na body pod štětcem
+	Rebind All	Znovu přiřadit vše
+	Rebind all points	Znovu přiřadit všechny body
+	Remove Pin	Odebrat deformační bod
+	Remove Warp	Odebrat deformaci
+	Remove Warp Pin	Odebrat deformační bod
+	Remove warp	Odebrat deformaci
+	Remove warp pin	Odebrat deformační bod
+	Removes the bone and the bones below it; the shape's points follow the bones that are left	Odebere kost i její podřízené kosti; body tvaru sledují zbývající kosti
+	Removes the bone and the bones below it; what they moved stays where it is, on a layer of its own	Odebere kost i její podřízené kosti; objekty, kterými pohybovaly, zůstanou na místě na samostatné vrstvě
+	Set Point Weight	Nastavit váhu bodu
+	Shows the points of shapes with bones: a square follows one bone, a triangle several. Click a bone to see the points it moves (filled). Click a point, or drag a box around points, to make them follow only that bone; Shift shares the bone with the ones they follow, Ctrl takes them from it. Turn on Paint Weights in Properties to brush the bone's influence on, off or smooth, shown as a heat map.	Zobrazuje body tvarů s kostmi: čtverec sleduje jednu kost, trojúhelník více kostí. Kliknutím na kost zobrazíte body, kterými pohybuje (vyplněné). Kliknutím na bod nebo výběrem bodů rámečkem je přiřadíte pouze této kosti; Shift přidá kost k těm, které již sledují, Ctrl ji z jejich vazeb odebere. V panelu Vlastnosti zapněte Malovat váhy a štětcem přidávejte, ubírejte nebo vyhlazujte vliv kosti, zobrazený barevnou mapou.
+	Slide X	Posun X
+	Slide Y	Posun Y
+	Spring	Pružina
+	Spring damping	Tlumení pružiny
+	Spring strength	Síla pružiny
+	Springs	Pružiny
+	Start a bone inside a shape, or on a symbol instance and drag to the instance or shape it moves.	Začněte kost uvnitř tvaru nebo na instanci symbolu a táhněte k instanci či tvaru, kterým má pohybovat.
+	Takes the mesh and its pins off the artwork on every keyframe: it shows as drawn again	Odebere síť a její deformační body z kresby na všech klíčových snímcích: kresba se znovu zobrazí v původní podobě
+	The artwork has a warp mesh. Add more pins, then drag one to bend it around the others.	Kresba má deformační síť. Přidejte další deformační body a pak tažením jednoho z nich kresbu ohněte kolem ostatních.
+	The bones that move the point, and their shares	Kosti, které pohybují bodem, a jejich podíly
+	The brush's radius on the stage ({keys})	Poloměr štětce na pracovní ploše ({keys})
+	The point whose weights show below (ringed on the stage). Click one with the Bind tool, or type its number	Bod, jehož váhy jsou zobrazeny níže (na pracovní ploše označený kroužkem). Klikněte na něj nástrojem Vazby nebo zadejte jeho číslo
+	Turn off to see and pose the armature's keyed poses without the springs' swing; every export plays them on	Vypnutím zobrazíte a nastavíte klíčové pózy kostry bez kmitání pružin; každý export pružiny přehrává
+	Warp Mesh	Deformační síť
+	Warp Mesh Resolution	Rozlišení deformační sítě
+	Weight brush size	Velikost štětce vah
+	Weight brush strength	Síla štětce vah
+	Weights	Váhy
+	X translation	Posun v ose X
+	Y translation	Posun v ose Y
+@plural	The bone moves {n} point. {undo} to undo the stroke.|The bone moves {n} points. {undo} to undo the stroke.	Kost pohybuje {n} bodem. {undo} vrátí změnu.|Kost pohybuje {n} body. {undo} vrátí změnu.|Kost pohybuje {n} body. {undo} vrátí změnu.
+@plural	Took {n} point from the bone; it follows {bound} points.|Took {n} points from the bone; it follows {bound} points.	Kosti odebrán {n} bod; počet bodů, kterými pohybuje: {bound}.|Kosti odebrány {n} body; počet bodů, kterými pohybuje: {bound}.|Kosti odebráno {n} bodů; počet bodů, kterými pohybuje: {bound}.
+@plural	{n} point now follows only this bone; it moves {bound} points.|{n} points now follow only this bone; it moves {bound} points.	{n} bod nyní sleduje pouze tuto kost; celkový počet bodů této kosti: {bound}.|{n} body nyní sledují pouze tuto kost; celkový počet bodů této kosti: {bound}.|{n} bodů nyní sleduje pouze tuto kost; celkový počet bodů této kosti: {bound}.
+@plural	{n} point now shares the bone; it moves {bound} points.|{n} points now share the bone; it moves {bound} points.	{n} bod nyní sleduje i tuto kost; celkový počet bodů této kosti: {bound}.|{n} body nyní sledují i tuto kost; celkový počet bodů této kosti: {bound}.|{n} bodů nyní sleduje i tuto kost; celkový počet bodů této kosti: {bound}.
+
+# Sound, audio keyframes and lip sync
+	1 keys every frame that changes; 2 animates on twos, and so on	1 vytvoří klíčový snímek při každé změně; 2 animuje po dvou snímcích a tak dále
+	After a timeline jump the keys can drift from this sound. Stream sync keeps them locked.	Po skoku na časové ose se mohou klíčové snímky s tímto zvukem rozejít. Synchronizace Stream je udržuje sladěné.
+	An open jaw: ah, as in father and cat	Otevřená ústa: anglické ah jako ve slovech father a cat
+	Analyse Sound	Analyzovat zvuk
+	Animate	Animovat
+	At the loudest	Při nejvyšší hlasitosti
+	Audio Scrubbing	Přehrávat zvuk při posunu po časové ose
+	Audio scrubbing	Přehrávat zvuk při posunu po časové ose
+	Auto Lip-Sync	Automatická synchronizace rtů
+	Auto Lip-Sync needs an instance of a graphic symbol with a frame for each mouth shape (File › New from Template has a Lip-sync mouth chart).	Automatická synchronizace rtů vyžaduje instanci grafického symbolu se snímkem pro každý tvar úst (v nabídce Soubor › Nový ze šablony je šablona „Tvary úst pro synchronizaci rtů“).
+	Auto Lip-Sync: a sound on the timeline picks this symbol's frame for each mouth shape	Automatická synchronizace rtů: zvuk na časové ose vybírá snímek tohoto symbolu pro každý tvar úst
+	Auto Lip-Sync: the speech picks the frames of a graphic symbol of mouth poses	Automatická synchronizace rtů: řeč vybírá snímky grafického symbolu s tvary úst
+	Auto Lip-Sync…	Automatická synchronizace rtů…
+	Auto lip-sync	Automatická synchronizace rtů
+	Both channels	Oba kanály
+	Channel measured	Měřený kanál
+	Clip Content Outside the Stage	Oříznout obsah mimo pracovní plochu
+	Clip content outside the stage	Oříznout obsah mimo pracovní plochu
+	Close Envelope	Zavřít obálku
+	Closed	Sevřená ústa
+	Convert Audio to Keyframes	Převést zvuk na klíčové snímky
+	Convert Audio to Keyframes: the sound's loudness keys an object's scale, alpha, position, rotation or first frame	Převést zvuk na klíčové snímky: hlasitost zvuku řídí klíčové snímky měřítka, alfa, polohy, otočení nebo prvního snímku objektu
+	Convert Audio to Keyframes…	Převést zvuk na klíčové snímky…
+	Convert audio to keyframes	Převést zvuk na klíčové snímky
+	Dragging the playhead plays a short slice of the stream sounds under it. Volume and mute are for playback only: exports keep their sound.	Při tažení přehrávací hlavy se přehrává krátký úsek streamovaných zvuků pod ní. Hlasitost a ztlumení platí jen pro přehrávání: exporty si zvuk zachovají.
+	Each frame becomes the average of itself and this many frames either side: higher is calmer, 0 follows every flick	Každý snímek se nahradí průměrem jeho hodnoty a tohoto počtu snímků na obou stranách: vyšší hodnota zklidňuje, 0 sleduje každý výkyv
+	Envelope	Obálka
+	Fewest frames a mouth is held	Nejmenší počet snímků pro jeden tvar úst
+	Frame for the {mouth} mouth	Snímek pro tvar úst „{mouth}“
+	Frame shown on the stage	Snímek zobrazený na pracovní ploše
+	Frames quieter than this share of the loudest frame are silence: the mouth rests, or closes for a short stop	Snímky tišší než tento podíl nejhlasitějšího snímku se považují za ticho: ústa jsou v klidu nebo se při krátké pauze zavřou
+	Frames quieter than this share of the loudest frame count as silence: raise it to ignore background noise	Snímky tišší než tento podíl nejhlasitějšího snímku se považují za ticho: zvýšením hodnoty potlačíte šum na pozadí
+	Hold each mouth	Podržet každý tvar úst
+	In silence	V tichu
+	Key every	Klíčový snímek každých
+	Lip Sync…	Synchronizace rtů…
+	Lip sync	Synchronizace rtů
+	Lips together: m, b, p and the short stops between syllables	Sevřené rty: m, b, p a krátké pauzy mezi slabikami
+	Mouths: the frame of {symbol} for each sound	Ústa: snímek symbolu {symbol} pro každý zvuk
+	Mute Sounds	Ztlumit zvuky
+	Mute sounds	Ztlumit zvuky
+	Mute sounds (while you work; exports keep their sound)	Ztlumit zvuky (během práce; exporty si zvuk zachovají)
+	Object that gets the keys	Objekt, na který se zapíší klíčové snímky
+	Playback volume	Hlasitost přehrávání
+	Playback volume: {pct} %	Hlasitost přehrávání: {pct} %
+	Preview is off	Náhled je vypnutý
+	Preview on the stage and the timeline	Náhled na pracovní ploše a časové ose
+	Preview: the sound's loudness on each frame and the mouth each frame gets. Click or drag to show a frame on the stage	Náhled: hlasitost zvuku a přiřazený tvar úst na každém snímku. Kliknutím nebo tažením zobrazíte snímek na pracovní ploše
+	Preview: the sound's loudness on each frame, the threshold, the value the keys follow and where the keys land. Click or drag to show a frame on the stage	Náhled: hlasitost zvuku na každém snímku, práh, hodnota pro klíčové snímky a jejich umístění. Kliknutím nebo tažením zobrazíte snímek na pracovní ploše
+	Property the sound drives	Vlastnost řízená zvukem
+	Put the object to animate on a layer first: the sound's loudness then keys its scale, alpha, position or rotation.	Nejprve umístěte animovaný objekt na vrstvu: hlasitost zvuku pak vytvoří klíčové snímky jeho měřítka, alfa, polohy nebo otočení.
+	Rest	Ústa v klidu
+	Rounded lips: oh, oo and w	Zaokrouhlené rty: anglické oh, oo a w
+	Silence below	Ticho pod prahem
+	Silence: the mouth at rest	Ticho: ústa v klidu
+	Sounds	Zvuky
+	Spread lips: ee and e, and the hiss of s and t	Roztažené rty: anglické ee a e a sykavé zvuky s a t
+	The fewest frames a mouth is held, so it doesn't flicker; lips together are kept however short	Nejmenší počet snímků, po který se drží tvar úst, aby neblikal; sevřené rty se zachovají i při kratším trvání
+	The layer whose object the sound drives: the keys are written on it	Vrstva s objektem řízeným zvukem: na ni se zapisují klíčové snímky
+	The object is not an instance of a graphic symbol	Objekt není instancí grafického symbolu
+	The object on the layer that the sound drives	Objekt na vrstvě, který je řízen zvukem
+	The property's value on the sound's loudest frame	Hodnota vlastnosti na nejhlasitějším snímku zvuku
+	The property's value where nothing sounds (or the sound is under the threshold)	Hodnota vlastnosti v tichu (nebo když je zvuk pod prahem)
+	The sound that is read: any sound on this timeline's keyframes	Zpracovávaný zvuk: libovolný zvuk na klíčových snímcích této časové osy
+	The sound's loudness on each frame keys a property of an object.	Hlasitost zvuku na každém snímku vytváří klíčové snímky vlastnosti objektu.
+	The speech picks a mouth for each frame: a first pass to polish by hand.	Řeč vybírá tvar úst pro každý snímek: první návrh k ručnímu doladění.
+	Unmute sounds	Zrušit ztlumení zvuků
+	Value at the loudest frame	Hodnota na nejhlasitějším snímku
+	Value in silence	Hodnota v tichu
+	Wide	Roztažené rty
+	Write	Zapsat jako
+	X offset	Posun X
+	Y offset	Posun Y
+	the sound device stopped working	zvukové zařízení přestalo fungovat
+	{filter}: {colour} · {channel}	{filter}: {colour} · {channel}
+	{frame}: {label}	{frame}: {label}
+	{from} to {to}	{from} až {to}
+	{sound} on {layer}, frame {frame}	{sound} na vrstvě {layer}, snímek {frame}
+@plural	{n} key from the sound. {undo} to undo.|{n} keys from the sound. {undo} to undo.	Ze zvuku vytvořen {n} klíčový snímek. {undo} vrátí změnu.|Ze zvuku vytvořeny {n} klíčové snímky. {undo} vrátí změnu.|Ze zvuku vytvořeno {n} klíčových snímků. {undo} vrátí změnu.
+@plural	{n} mouth keyframe from the speech. {undo} to undo.|{n} mouth keyframes from the speech. {undo} to undo.	Z řeči vytvořen {n} klíčový snímek úst. {undo} vrátí změnu.|Z řeči vytvořeny {n} klíčové snímky úst. {undo} vrátí změnu.|Z řeči vytvořeno {n} klíčových snímků úst. {undo} vrátí změnu.
+
+# Timeline, motion and easing
+	A symbol's first frame is set with keyframes	První snímek symbolu se nastavuje pomocí klíčových snímků
+	Add Ease Point	Přidat bod průběhu interpolace
+	Back	Zpětný překmit
+	Bounce	Odskok
+	Circ	Kružnicový
+	Classic Ease	Klasický průběh interpolace
+	Classic Ease {strength}	Klasický průběh interpolace {strength}
+	Classic ease strength	Síla klasického průběhu interpolace
+	Click the curve to add a point. Drag a point or handle; double-click a point for smooth or corner, right-click to delete it.	Kliknutím na křivku přidáte bod. Táhněte za bod nebo táhlo; dvojklikem přepnete mezi hladkým a rohovým bodem, pravým kliknutím bod odstraníte.
+	Click the curve to add a point; drag points and handles. Keys: [ ] pick a point, arrows move it, S smooth or corner, + add, Delete remove.	Kliknutím na křivku přidáte bod; táhněte za body a táhla. Klávesy: [ ] vyberou bod, šipky jej přesunou, S přepne mezi hladkým a rohovým bodem, + přidá bod, Delete jej odstraní.
+	Convert Ease Point	Změnit typ bodu průběhu interpolace
+	Copy Ease	Kopírovat průběh interpolace
+	Cubic	Kubický
+	Custom Ease	Vlastní průběh interpolace
+	Delete Ease Point	Odstranit bod průběhu interpolace
+	Delete Saved Ease	Odstranit uložený průběh interpolace
+	Delete or right-click; the ends stay	Delete nebo pravé kliknutí; koncové body zůstanou
+	Drag a handle to scale (Shift keeps proportions, Alt scales from the centre), a line between handles to skew (Alt skews about the centre), just outside a corner to rotate (Shift snaps 15°), inside to move.	Tažením táhla změníte velikost (Shift zachová proporce, Alt mění velikost od středu), čáry mezi táhly zkosíte (Alt zkosí kolem středu), těsně vně rohu otočíte (Shift přichytává po 15°), uvnitř přesunete.
+	Drag a key sideways to move it in time, or up or down to change it; drag a handle to shape the ease. Shift-click picks more keys, Left and Right move them a frame. Double-click to add a key.	Tažením klíčového snímku do strany jej posunete v čase, nahoru či dolů změníte jeho hodnotu; tažením táhla upravíte průběh interpolace. Shift+klik vybere další klíčové snímky, šipky vlevo a vpravo je posunou o snímek. Dvojklikem přidáte klíčový snímek.
+	Dragging selects frames. To move a keyframe, click it first, then drag it.	Tažením vybíráte snímky. Chcete-li přesunout klíčový snímek, nejprve na něj klikněte a pak jej přetáhněte.
+	Ease Properties Separately	Nastavit průběh interpolace vlastností samostatně
+	Ease curve, {count} points. [ and ] pick a point, the arrows move it, S makes it smooth or a corner, + adds one, Delete removes it	Křivka průběhu interpolace, počet bodů: {count}. [ a ] vyberou bod, šipky jej přesunou, S přepne mezi hladkým a rohovým bodem, + přidá bod, Delete jej odstraní
+	Ease each property separately	Nastavit průběh interpolace každé vlastnosti samostatně
+	Ease point	Bod průběhu interpolace
+	Eased separately: {groups}	Samostatný průběh interpolace: {groups}
+	Eases	Průběhy interpolace
+	Eases: pick them in a tween's ease menu	Průběhy interpolace: vyberte je v nabídce průběhu interpolace
+	Edit Ease…	Upravit průběh interpolace…
+	Edit the ease: drag its points and handles	Upravit průběh interpolace: táhněte za body a táhla
+	Edit this saved ease	Upravit tento uložený průběh interpolace
+	Elastic	Pružný
+	Every property's keys at frame {frame}: click to pick them, drag to move them in time	Klíčové snímky všech vlastností na snímku {frame}: kliknutím je vyberete, tažením posunete v čase
+	Frames between keys	Počet snímků mezi klíčovými snímky
+	Handles in line (S); off: a corner	Táhla v jedné přímce (S); při vypnutí: roh
+	Holds each key until the next one (no ease)	Drží hodnotu každého klíčového snímku až do dalšího (bez průběžné interpolace)
+	In	Rozjezd
+	In Out	Rozjezd a dojezd
+	Insert blank keyframe	Vložit prázdný klíčový snímek
+	Insert frame	Vložit snímek
+	Insert keyframe	Vložit klíčový snímek
+	Join Motion	Spojit pohybové interpolace
+	Keep Area	Zachovat plochu
+	Keep area	Zachovat plochu
+	Keep area: follows Scale X	Zachovat plochu: sleduje Měřítko X
+	Keep area: follows Scale Y	Zachovat plochu: sleduje Měřítko Y
+	Keep this ease in the document, with the presets, for any tween	Uložit tento průběh interpolace v dokumentu mezi přednastavení pro libovolnou interpolaci
+	Keyframes	Klíčové snímky
+	Motion tween curve	Křivka pohybové interpolace
+	Motion tween: {property} at frame {frame}	Pohybová interpolace: {property} na snímku {frame}
+	Move Ease Handle	Posunout táhlo průběhu interpolace
+	Move Ease Point	Posunout bod průběhu interpolace
+	Move Property Keyframes	Posunout klíčové snímky vlastností
+	Move Spans	Přesunout úseky
+	Move property keyframes	Posunout klíčové snímky vlastností
+	New Scene	Nová scéna
+	No Ease	Bez průběhu interpolace
+	No ease: a steady speed	Bez průběhu interpolace: stálá rychlost
+	No plug-ins installed yet. Plug-ins are WebAssembly (.wasm) files that add commands (generators, selection effects), export formats and eases.	Zatím nejsou nainstalovány žádné zásuvné moduly. Zásuvné moduly jsou soubory WebAssembly (.wasm), které přidávají příkazy (generátory, efekty výběru), formáty exportu a průběhy interpolace.
+	One strength: −100 eases in, +100 eases out	Jedna hodnota síly: −100 znamená pozvolný rozjezd, +100 pozvolný dojezd
+	Out	Dojezd
+	Paste Ease	Vložit průběh interpolace
+	Plug-in eases	Průběhy interpolace ze zásuvných modulů
+	Point value	Hodnota bodu
+	Quad	Kvadratický
+	Quart	Čtvrtého stupně
+	Quint	Pátého stupně
+	Release Text from Path	Odpojit text od cesty
+	Removes the picked pin from every keyframe (Delete)	Odebere vybraný deformační bod ze všech klíčových snímků (Delete)
+	Rename Saved Ease	Přejmenovat uložený průběh interpolace
+	Save Ease	Uložit průběh interpolace
+	Save as	Uložit jako
+	Saved ease name	Název uloženého průběhu interpolace
+	Saved ease “{name}”	Průběh interpolace „{name}“ uložen
+	Saved eases	Uložené průběhy interpolace
+	Saved:	Uloženo:
+	Select a tweened span to edit its ease	Vyberte úsek s interpolací, jehož průběh chcete upravit
+	Set Ease	Nastavit průběh interpolace
+	Shape the curve point by point, save it, copy it to other tweens	Tvarovat křivku bod po bodu, uložit ji a kopírovat do dalších interpolací
+	Sine	Sinusový
+	Span Length	Délka úseku
+	Split Motion	Rozdělit pohybovou interpolaci
+	Split the motion tween in two at frame {frame} — {undo} to undo	Pohybová interpolace rozdělena na dvě na snímku {frame} — {undo} vrátí změnu
+	Squash and stretch without growing: scale goes geometrically between keys, and a scale axis without keys follows the other so the area stays	Stlačování a protahování bez zvětšování plochy: měřítko se mezi klíčovými snímky mění geometricky a osa měřítka bez klíčových snímků se řídí druhou osou, aby se zachovala plocha
+	Squash and stretch without growing: scale goes geometrically between keys, so keys of one area keep it on every frame	Stlačování a protahování bez zvětšování plochy: měřítko se mezi klíčovými snímky mění geometricky, takže klíčové snímky se stejnou plochou ji zachovají na každém snímku
+	Stop {n}	Zarážka {n}
+	The property's curve in the motion tween on the span (one is made for a lone object): the span stays whole, and the Motion Editor shows the curve	Křivka vlastnosti v pohybové interpolaci úseku (pro samostatný objekt se interpolace vytvoří): úsek zůstane vcelku a Editor pohybu zobrazí křivku
+	The transformation point (the white circle Free Transform shows): what this instance turns, scales and skews about, on the stage, here and in tweens. Drag the circle with Free Transform, or set it here	Transformační bod (bílý kruh nástroje Volná transformace): bod, kolem kterého se tato instance otáčí, mění velikost a zkosuje na pracovní ploše, zde i v interpolacích. Přetáhněte kruh nástrojem Volná transformace nebo jej nastavte zde
+	This span has no tween: create a classic or motion tween to ease it	Tento úsek nemá interpolaci: pro nastavení průběhu vytvořte klasickou nebo pohybovou interpolaci
+	To Keyframes…	Na klíčové snímky…
+	Tweens using it keep their curves ({undo} to undo)	Interpolace používající tento průběh si zachovají své křivky ({undo} vrátí změnu)
+	keys stay (Shift)	klíčové snímky zůstávají (Shift)
+	keys stretch	klíčové snímky se roztahují
+	{family} {direction}	{direction} · {family}
+	{property} curve: Left and Right move the picked keys a frame	Křivka vlastnosti {property}: šipky vlevo a vpravo posunou vybrané klíčové snímky o snímek
+	{property} has no keyframes: Keep area moves it against the other scale axis. Click ◇ or drag its value to key it yourself.	Vlastnost {property} nemá klíčové snímky: Zachovat plochu ji mění v opačném směru než druhou osu měřítka. Kliknutím na ◇ nebo tažením hodnoty vytvoříte vlastní klíčový snímek.
+	{row} · {percent} % opacity	{row} · krytí {percent} %
+@plural	Copied {n} frame — {undo} to undo|Copied {n} frames — {undo} to undo	Zkopírován {n} snímek — {undo} vrátí změnu|Zkopírovány {n} snímky — {undo} vrátí změnu|Zkopírováno {n} snímků — {undo} vrátí změnu
+@plural	Joined {n} motion tween into one — {undo} to undo|Joined {n} motion tweens into one — {undo} to undo	Spojena {n} pohybová interpolace do jedné — {undo} vrátí změnu|Spojeny {n} pohybové interpolace do jedné — {undo} vrátí změnu|Spojeno {n} pohybových interpolací do jedné — {undo} vrátí změnu
+@plural	Moved {n} property keyframe by {by} frames — {undo} to undo|Moved {n} property keyframes by {by} frames — {undo} to undo	Posunut {n} klíčový snímek vlastnosti; posun ve snímcích: {by} — {undo} vrátí změnu|Posunuty {n} klíčové snímky vlastností; posun ve snímcích: {by} — {undo} vrátí změnu|Posunuto {n} klíčových snímků vlastností; posun ve snímcích: {by} — {undo} vrátí změnu
+@plural	Moved {n} property keyframe — {undo} to undo|Moved {n} property keyframes — {undo} to undo	Posunut {n} klíčový snímek vlastnosti — {undo} vrátí změnu|Posunuty {n} klíčové snímky vlastností — {undo} vrátí změnu|Posunuto {n} klíčových snímků vlastností — {undo} vrátí změnu
+@plural	Stretched the tween to {n} frame, its keys in proportion — {undo} to undo|Stretched the tween to {n} frames, its keys in proportion — {undo} to undo	Interpolace roztažena na {n} snímek, její klíčové snímky poměrně — {undo} vrátí změnu|Interpolace roztažena na {n} snímky, její klíčové snímky poměrně — {undo} vrátí změnu|Interpolace roztažena na {n} snímků, její klíčové snímky poměrně — {undo} vrátí změnu
+@plural	The span is {n} frame long — {undo} to undo|The span is {n} frames long — {undo} to undo	Úsek má délku {n} snímku — {undo} vrátí změnu|Úsek má délku {n} snímků — {undo} vrátí změnu|Úsek má délku {n} snímků — {undo} vrátí změnu
+@plural	{n} ease, in the ease menus|{n} eases, in the ease menus	{n} průběh interpolace v nabídkách průběhu interpolace|{n} průběhy interpolace v nabídkách průběhu interpolace|{n} průběhů interpolace v nabídkách průběhu interpolace
+@plural	{n} key on the motion tween's curve|{n} keys on the motion tween's curve	{n} klíčový snímek na křivce pohybové interpolace|{n} klíčové snímky na křivce pohybové interpolace|{n} klíčových snímků na křivce pohybové interpolace
+@plural	{n} key · {by} frames → frame {frame}|{n} keys · {by} frames → frame {frame}	{n} klíčový snímek · posun ve snímcích: {by} → snímek {frame}|{n} klíčové snímky · posun ve snímcích: {by} → snímek {frame}|{n} klíčových snímků · posun ve snímcích: {by} → snímek {frame}
+@plural	{n} keyframe|{n} keyframes	{n} klíčový snímek|{n} klíčové snímky|{n} klíčových snímků
+
+# Layers, parenting, depth and camera
+	A keyframe on the layer wherever the value changes, as if you had set each by hand	Klíčový snímek na vrstvě při každé změně hodnoty, jako byste je všechny nastavili ručně
+	Attach	Připojit
+	Attach Layer to Camera	Připojit vrstvu ke kameře
+	Attach Layer to Camera: the layer stays where it is on screen while the camera moves	Připojit vrstvu ke kameře: vrstva při pohybu kamery zůstává na stejném místě na obrazovce
+	Attach Layer to Camera: the layer stays where it is on screen while the camera moves (titles, HUDs)	Připojit vrstvu ke kameře: vrstva při pohybu kamery zůstává na stejném místě na obrazovce (titulky, HUD)
+	Attach layer to camera	Připojit vrstvu ke kameře
+	Attach {layer} to camera	Připojit vrstvu {layer} ke kameře
+	Attach {name} to camera	Připojit vrstvu {name} ke kameře
+	Camera Colour Effect	Barevný efekt kamery
+	Camera colour effect style	Styl barevného efektu kamery
+	Depth key	Klíčový snímek hloubky
+	Depth of {layer}	Hloubka vrstvy {layer}
+	Depth works through the camera: deeper layers move and zoom less as it moves.	Hloubka se projevuje při pohledu kamerou: hlubší vrstvy se při pohybu kamery posouvají a přibližují méně.
+	Drag a layer along its track, or type its depth. The diamond keys the depth on this frame.	Táhněte vrstvu podél její dráhy nebo zadejte její hloubku. Kosočtverec vytvoří klíčový snímek hloubky na tomto snímku.
+	Drag to another layer to make it the parent of {name}; click to pick one	Přetažením na jinou vrstvu ji nastavíte jako nadřazenou vrstvě {name}; kliknutím ji vyberete
+	Each object's centre	Střed každého objektu
+	Each object's own point	Vlastní bod každého objektu
+	Each selected object turns, scales and skews about the centre of its own box	Každý vybraný objekt se otáčí, mění velikost a zkosuje kolem středu svého ohraničujícího rámečku
+	Each selected object turns, scales and skews where it stands: a symbol or group about its registration point, anything else about its centre	Každý vybraný objekt se otáčí, mění velikost a zkosuje na svém místě: symbol nebo skupina kolem registračního bodu, ostatní kolem středu
+	Farther	Dále
+	Hide all layers	Skrýt všechny vrstvy
+	How far behind the stage this layer is: through the camera a deeper layer moves and zooms less, and draws behind nearer ones. Negative is in front.	Vzdálenost této vrstvy za pracovní plochou: při pohledu kamerou se hlubší vrstva posouvá a přibližuje méně a vykresluje se za bližšími. Záporná hodnota znamená polohu vpředu.
+	How strongly the layer shows, in the movie and every export. Its artwork fades together, so overlapping parts don't show through each other; a folder fades the layers in it	Míra viditelnosti vrstvy v animaci i každém exportu. Její kresba se zeslabuje jako celek, takže se překrývající části vzájemně neprosvítají; u složky se zeslabují vrstvy uvnitř
+	Key the depth on this frame: the depth then tweens between keys	Vytvořit klíčový snímek hloubky na tomto snímku: mezi klíčovými snímky se pak hloubka interpoluje
+	Layer Depths	Hloubky vrstev
+	Layer Opacity	Krytí vrstvy
+	Layer Parents	Nadřazené vrstvy
+	Layer depth belongs to a scene's layers. Edit the document (Edit › Edit Document) to set it.	Hloubka patří vrstvám scény. Nastavíte ji při úpravě dokumentu (Úpravy › Upravit dokument).
+	Layer opacity	Krytí vrstvy
+	Layer opacity (percent)	Krytí vrstvy (procenta)
+	Layer that gets the keys	Vrstva, na kterou se zapíší klíčové snímky
+	Lock all layers	Zamknout všechny vrstvy
+	Mask Type	Typ masky
+	Mask type	Typ masky
+	Move Layer To	Přesunout vrstvu na pozici
+	Nearer	Blíže
+	No Parent	Žádná nadřazená vrstva
+	Parent	Nadřazená vrstva
+	Parent Layer	Nadřazená vrstva
+	Parent layer	Nadřazená vrstva
+	Parent of {name}: none	Nadřazená vrstva pro {name}: žádná
+	Parent of {name}: {parent}	Nadřazená vrstva pro {name}: {parent}
+	Parenting View	Zobrazení vazeb vrstev
+	Parenting View: show which layer each layer follows. Drag from a layer's dot to another layer to parent it; click the dot to pick or remove the parent	Zobrazení vazeb vrstev: ukazuje, kterou vrstvu každá vrstva sleduje. Tažením z bodu vrstvy na jinou vrstvu nastavíte nadřazenou vrstvu; kliknutím na bod ji vyberete nebo odeberete
+	Parenting view	Zobrazení vazeb vrstev
+	Parenting view: drag from a layer's dot to another layer, or click the dot to pick its parent	Zobrazení vazeb vrstev: táhněte z bodu vrstvy na jinou vrstvu nebo kliknutím na bod vyberte nadřazenou vrstvu
+	Preview through camera is on, but the camera layer is hidden. Show the layer to look through it.	Náhled kamerou je zapnutý, ale vrstva kamery je skrytá. Zobrazte ji, abyste se mohli dívat kamerou.
+	Previewing through the camera: the Selection tool picks and moves artwork here; other tools wait. Turn off View › Preview Through Camera to draw.	Náhled kamerou: nástroj Výběr zde vybírá a přesouvá kresbu; ostatní nástroje čekají. Chcete-li kreslit, vypněte Zobrazení › Náhled kamerou.
+	Remove Depth Key	Odebrat klíčový snímek hloubky
+	Remove Parent	Odebrat nadřazenou vrstvu
+	Remove the depth key on this frame	Odebrat klíčový snímek hloubky na tomto snímku
+	Resize the layer names and the frames	Změnit velikost oblasti názvů vrstev a snímků
+	Show all layers	Zobrazit všechny vrstvy
+	Show all layers as artwork	Zobrazit všechny vrstvy jako kresbu
+	Show all layers as outlines	Zobrazit všechny vrstvy jako obrysy
+	The layer stays where it is on screen while the camera moves: for titles and HUDs	Vrstva při pohybu kamery zůstává na stejném místě na obrazovce: pro titulky a HUD
+	The mask's brightness reveals: white shows, black hides, greys show partly	Viditelnost určuje jas masky: bílá odhaluje, černá skrývá, šedá odhaluje částečně
+	The mask's fills reveal fully, whatever their colour or opacity	Výplně masky odhalují obsah úplně, bez ohledu na svou barvu nebo krytí
+	The mask's opacity reveals: gradients to transparent and faded shapes give soft edges	Viditelnost určuje krytí masky: přechody do průhlednosti a zeslabené tvary vytvářejí měkké okraje
+	The movie shows what the frame on the stage shows. Deeper layers (Window › Layer Depth) move and zoom less.	Animace zobrazuje stejný obraz jako snímek na pracovní ploše. Hlubší vrstvy (Okno › Hloubka vrstvy) se posouvají a přibližují méně.
+	The selected objects turn, scale and skew together, as one arrangement	Vybrané objekty se otáčejí, mění velikost a zkosují společně jako jeden celek
+	The whole selection	Celý výběr
+	This kind of layer can't follow a parent	Tento typ vrstvy nemůže sledovat nadřazenou vrstvu
+	Transform about	Transformovat kolem
+	Tween on {layer}, frames {a}–{b}	Interpolace na vrstvě {layer}, snímky {a}–{b}
+	Unlock all layers	Odemknout všechny vrstvy
+	{name} can lead other layers: drag from their dots to this layer	Vrstva {name} může řídit další vrstvy: táhněte z jejich bodů na tuto vrstvu
+	{name} follows {parent}. Drag to another layer to change its parent; click to pick or remove it	Vrstva {name} sleduje vrstvu {parent}. Přetažením na jinou vrstvu změníte nadřazenou vrstvu; kliknutím ji vyberete nebo odeberete
+
+# Panels, docks, workspaces and document tabs
+	Animator	Animátor
+	Back to the workspace as built or saved	Obnovit výchozí nebo uložený pracovní prostor
+	Built-in workspaces can be reset but not deleted	Vestavěné pracovní prostory lze obnovit, ale nelze je odstranit
+	Built-in workspaces can be reset but not deleted. Save Workspace… adds one of your own.	Vestavěné pracovní prostory lze obnovit, ale nelze je odstranit. Příkazem Uložit pracovní prostor… přidáte vlastní.
+	Click again to delete it; this can't be undone	Dalším kliknutím jej odstraníte; tuto akci nelze vrátit
+	Close All Documents	Zavřít všechny dokumenty
+	Close Document	Zavřít dokument
+	Close Others	Zavřít ostatní
+	Close Tab Group	Zavřít skupinu karet
+	Close Window	Zavřít okno
+	Close {name}	Zavřít {name}
+	Close {panel}	Zavřít {panel}
+	Collapse the Dock to Icons	Sbalit dok na ikony
+	Collapse to icons	Sbalit na ikony
+	Delete for Good	Trvale odstranit
+	Delete this workspace (asks with a second click)	Odstranit tento pracovní prostor (s potvrzením druhým kliknutím)
+	Designer	Návrhář
+	Dock	Ukotvit
+	Dock Above the Stage	Ukotvit nad pracovní plochou
+	Dock Below the Stage	Ukotvit pod pracovní plochou
+	Dock Left	Ukotvit vlevo
+	Dock Right	Ukotvit vpravo
+	Dock, float or close this panel	Ukotvit, uvolnit do okna nebo zavřít tento panel
+	Drag a panel's tab to dock it on any side, stack it with others or float it	Přetažením karty panel ukotvíte na kterékoli straně, seskupíte s ostatními nebo uvolníte do okna
+	Drag the tab to dock the panel elsewhere, stack it with others or float it	Přetažením karty panel ukotvíte jinde, seskupíte s ostatními nebo uvolníte do okna
+	Drag to dock the whole window; drag a tab to move one panel	Tažením ukotvíte celé okno; tažením karty přesunete jeden panel
+	Drag to move the tools; click for more	Tažením přesunete nástroje; kliknutím zobrazíte další možnosti
+	Expand the Dock	Rozbalit dok
+	Expand the dock	Rozbalit dok
+	Finish with the open dialog first.	Nejprve dokončete práci v otevřeném dialogu.
+	Float in a Window	Uvolnit do okna
+	Fold Group	Sbalit skupinu
+	Fold this panel group	Sbalit tuto skupinu panelů
+	Give the workspace a name	Pojmenujte pracovní prostor
+	Manage Workspaces	Spravovat pracovní prostory
+	Manage Workspaces…	Spravovat pracovní prostory…
+	Next Document	Další dokument
+	Not saved yet	Zatím neuloženo
+	Only workspaces of your own can be renamed	Přejmenovat lze jen vlastní pracovní prostory
+	Open documents	Otevřené dokumenty
+	Previous Document	Předchozí dokument
+	Put the panel back in the dock it came from	Vrátit panel do původního doku
+	Put the panels back in the docks they came from	Vrátit panely do původních doků
+	Reset “{name}”	Obnovit „{name}“
+	Resize the dock above the stage	Změnit velikost doku nad pracovní plochou
+	Resize the dock below the stage	Změnit velikost doku pod pracovní plochou
+	Resize the left dock	Změnit velikost levého doku
+	Resize {first} and {second}	Změnit velikost: {first} a {second}
+	Save All	Uložit vše
+	Save Workspace	Uložit pracovní prostor
+	Save Workspace…	Uložit pracovní prostor…
+	Stack With	Seskupit s
+	That name belongs to a built-in workspace	Tento název patří vestavěnému pracovnímu prostoru
+	That name is too long	Tento název je příliš dlouhý
+	There are too many workspaces; replace one of yours	Pracovních prostorů je příliš mnoho; nahraďte některý vlastní
+	There is already a workspace of that name	Pracovní prostor s tímto názvem již existuje
+	Three documents are open: click a tab to show it, or press {key}.	Jsou otevřené tři dokumenty: kliknutím na kartu dokument zobrazíte nebo stiskněte {key}.
+	Tools panel menu	Nabídka panelu Nástroje
+	Unfold Group	Rozbalit skupinu
+	Unfold this panel group	Rozbalit tuto skupinu panelů
+	Untitled {n}	Bez názvu {n}
+	Window grip: drag to dock this window	Úchyt okna: tažením toto okno ukotvíte
+	Workspace “{name}” deleted	Pracovní prostor „{name}“ odstraněn
+	Workspace “{name}” reset	Pracovní prostor „{name}“ obnoven
+	Workspace “{name}” saved	Pracovní prostor „{name}“ uložen
+	Workspace “{old}” renamed “{new}”	Pracovní prostor „{old}“ přejmenován na „{new}“
+	Zoom presets	Přednastavení přiblížení
+	built in	vestavěné
+	in use	používá se
+	{name} ({number} of {count})	{name} ({number} z {count})
+	{name}, unsaved changes	{name}, neuložené změny
+	{panel} (floating)	{panel} (samostatné okno)
+	{panel} panel menu	Nabídka panelu {panel}
+	“{name}” is already open.	„{name}“ je již otevřeno.
+@plural	Save changes to {n} document before closing?|Save changes to {n} documents before closing?	Uložit před zavřením změny v {n} dokumentu?|Uložit před zavřením změny ve {n} dokumentech?|Uložit před zavřením změny v {n} dokumentech?
+@plural	{n} document is open, the most at once. Close one to open another.|{n} documents are open, the most at once. Close one to open another.	Je otevřen {n} dokument, což je maximum. Chcete-li otevřít další, jeden zavřete.|Jsou otevřeny {n} dokumenty, což je maximum. Chcete-li otevřít další, jeden zavřete.|Je otevřeno {n} dokumentů, což je maximum. Chcete-li otevřít další, jeden zavřete.
+
+# History and saved commands
+	Add Saved Command from File	Přidat uložený příkaz ze souboru
+	Add a saved command (a .json file)	Přidat uložený příkaz (soubor .json)
+	Add from File…	Přidat ze souboru…
+	Added “{name}” to your commands	Příkaz „{name}“ přidán mezi vaše příkazy
+	Click to go back to this step · Ctrl+click picks it for Save As Command, Shift+click a range	Kliknutím se vrátíte k tomuto kroku · Ctrl+klik jej vybere pro Uložit jako příkaz, Shift+klik vybere rozsah
+	Command {n}	Příkaz {n}
+	Copy a saved command someone shared into your commands	Zkopírovat sdílený uložený příkaz mezi vaše příkazy
+	Ctrl+click steps to save them as a command	Ctrl+kliknutím vyberte kroky k uložení jako příkaz
+	Delete Saved Command	Odstranit uložený příkaz
+	Delete this saved command's file (asks first)	Odstranit soubor tohoto uloženého příkazu (s potvrzením)
+	Deleted “{name}”	Položka „{name}“ odstraněna
+	Give it a key in Keyboard Shortcuts	Přiřadit klávesovou zkratku v Klávesových zkratkách
+	It runs on whatever is selected when you choose it in the Commands menu.	Při výběru v nabídce Příkazy se provede na aktuálním výběru.
+	Keep the picked steps as a command in the Commands menu, to run on any selection	Uložit vybrané kroky jako příkaz v nabídce Příkazy, který lze spustit na libovolném výběru
+	List History Steps	Vypsat kroky historie
+	Manage Saved Commands	Spravovat uložené příkazy
+	Manage Saved Commands…	Spravovat uložené příkazy…
+	Move Saved Command	Přesunout uložený příkaz
+	Move “{name}” down	Přesunout „{name}“ dolů
+	Move “{name}” up	Přesunout „{name}“ nahoru
+	New name for “{name}”	Nový název položky „{name}“
+	No saved commands yet. Pick steps in the History panel (Ctrl+click), then Save As Command: they run again on the selection as one undo step.	Zatím žádné uložené příkazy. Vyberte kroky v panelu Historie (Ctrl+klik) a poté zvolte Uložit jako příkaz: znovu se provedou na výběru jako jeden krok zpět.
+	No saved commands yet: pick steps in the History panel and Save As Command	Zatím žádné uložené příkazy: vyberte kroky v panelu Historie a zvolte Uložit jako příkaz
+	Pick for Save As Command	Vybrat pro uložení jako příkaz
+	Pick the steps to save first: Ctrl+click them in the History panel (Shift+click picks a range).	Nejprve vyberte kroky k uložení: Ctrl+kliknutím v panelu Historie (Shift+klik vybere rozsah).
+	Rename Saved Command	Přejmenovat uložený příkaz
+	Rename “{name}”	Přejmenovat „{name}“
+	Run Command…	Spustit příkaz…
+	Run a saved command (a .json file)	Spustit uložený příkaz (soubor .json)
+	Run it on the selection (one undo step)	Spustit na výběru (jeden krok zpět)
+	Run “{name}”	Spustit „{name}“
+	Save As Command	Uložit jako příkaz
+	Save As Command…	Uložit jako příkaz…
+	Saved command	Uložený příkaz
+	Saved command name	Název uloženého příkazu
+	Saved commands	Uložené příkazy
+	Saved commands are kept in a folder on your computer: save them in the desktop app.	Uložené příkazy se uchovávají ve složce na počítači: ukládejte je v desktopové aplikaci.
+	Saved commands are small JSON files: share one by sending it; Commands › Run Command… runs a file without adding it.	Uložené příkazy jsou malé soubory JSON: sdílíte je odesláním souboru; Příkazy › Spustit příkaz… spustí soubor bez přidání mezi příkazy.
+	Saved “{name}”: find it at the end of the Commands menu	Příkaz „{name}“ uložen: najdete jej na konci nabídky Příkazy
+	Shortcut for “{name}”	Zkratka pro „{name}“
+	Shortcut…	Zkratka…
+	Unpick Step	Zrušit výběr kroku
+	Unpick every step	Zrušit výběr všech kroků
+	can't be kept: {why}	nelze uložit: {why}
+	{file} isn't a saved command: {why}	Soubor {file} není uložený příkaz: {why}
+@plural	Ran “{name}” ({n} step) — {undo} to undo|Ran “{name}” ({n} steps) — {undo} to undo	Spuštěn příkaz „{name}“ ({n} krok) — {undo} vrátí změnu|Spuštěn příkaz „{name}“ ({n} kroky) — {undo} vrátí změnu|Spuštěn příkaz „{name}“ ({n} kroků) — {undo} vrátí změnu
+@plural	Take the {n} step that can't be kept out of the picks (Ctrl+click it) to save the others.|Take the {n} steps that can't be kept out of the picks (Ctrl+click them) to save the others.	Chcete-li uložit ostatní kroky, zrušte výběr {n} kroku, který nelze uložit (Ctrl+klik).|Chcete-li uložit ostatní kroky, zrušte výběr {n} kroků, které nelze uložit (Ctrl+klik).|Chcete-li uložit ostatní kroky, zrušte výběr {n} kroků, které nelze uložit (Ctrl+klik).
+@plural	{n} step picked|{n} steps picked	Vybrán {n} krok|Vybrány {n} kroky|Vybráno {n} kroků
+@plural	{n} step, run in order as one undo step:|{n} steps, run in order as one undo step:	{n} krok, prováděný postupně jako jeden krok zpět:|{n} kroky, prováděné postupně jako jeden krok zpět:|{n} kroků, prováděných postupně jako jeden krok zpět:
+
+# Guides, grid and rulers
+	Add Guide…	Přidat vodítko…
+	Add guide	Přidat vodítko
+	Added a guide. Drag it with the Selection tool to move it, or back onto a ruler to delete it. {undo} to undo.	Vodítko přidáno. Tažením nástrojem Výběr jej přesunete, přetažením zpět na pravítko odstraníte. {undo} vrátí změnu.
+	Always snap	Vždy přichytávat
+	Can be distant	Mohou být vzdálené
+	Delete Guide	Odstranit vodítko
+	Delete this guide	Odstranit toto vodítko
+	Delete {axis} guide {n}	Odstranit vodítko {axis} {n}
+	Deleted the guide. {undo} to undo.	Vodítko odstraněno. {undo} vrátí změnu.
+	Drag onto the stage to add a guide (View › Guides › Edit Guides adds one by position)	Přetažením na pracovní plochu přidáte vodítko (Zobrazení › Vodítka › Upravit vodítka umožňuje zadat polohu)
+	Draw the grid over the artwork; off, it shows under it, on the stage	Zobrazovat mřížku nad kresbou; při vypnutí se zobrazí pod kresbou na pracovní ploše
+	Edit Grid	Upravit mřížku
+	Edit Grid…	Upravit mřížku…
+	Edit Guides	Upravit vodítka
+	Edit Guides…	Upravit vodítka…
+	Grid colour	Barva mřížky
+	Guide colour	Barva vodítek
+	Guides in this scene	Vodítka v této scéně
+	Horizontal guides are at y, vertical ones at x, in stage pixels from its top-left corner	Vodorovná vodítka mají souřadnici y, svislá x, v pixelech pracovní plochy od jejího levého horního rohu
+	Horizontal ruler	Vodorovné pravítko
+	Horizontal spacing	Vodorovné rozestupy
+	Lock guides	Zamknout vodítka
+	Locked guides can't be dragged; new ones can still be added	Zamčená vodítka nelze přetahovat; nová lze stále přidávat
+	Move Guide	Přesunout vodítko
+	Must be close	Musí být blízko
+	New guide direction	Směr nového vodítka
+	New guide position	Poloha nového vodítka
+	None yet. Add one below, or drag one from a ruler (View › Rulers).	Zatím žádná vodítka. Přidejte je níže nebo přetažením z pravítka (Zobrazení › Pravítka).
+	Rulers, Grid and Guides	Pravítka, mřížka a vodítka
+	Show grid	Zobrazit mřížku
+	Show guides	Zobrazit vodítka
+	Show over objects	Zobrazit nad objekty
+	Snap accuracy	Přesnost přichytávání
+	Snap to Guides	Přichytávat k vodítkům
+	Snap to Pixels	Přichytávat k pixelům
+	Snap to grid	Přichytávat k mřížce
+	Snap to guides	Přichytávat k vodítkům
+	Spacing ↔	Rozestupy ↔
+	Spacing ↕	Rozestupy ↕
+	Vertical ruler	Svislé pravítko
+	Vertical spacing	Svislé rozestupy
+	{axis} guide {n} position	Poloha vodítka {axis} {n}
+@plural	Cleared {n} guide. {undo} to undo.|Cleared {n} guides. {undo} to undo.	Vymazáno {n} vodítko. {undo} vrátí změnu.|Vymazána {n} vodítka. {undo} vrátí změnu.|Vymazáno {n} vodítek. {undo} vrátí změnu.
+
+# Themes, graphics and start-up
+	"{key}" is not part of a theme file.	„{key}“ do souboru motivu nepatří.
+	"{key}" must be a short line of text, up to {max} characters.	„{key}“ musí být krátký řádek textu, nejvýše {max} znaků.
+	A change takes effect the next time AniCraft starts. If a way doesn't work, AniCraft starts with the next one.	Změna se projeví při příštím spuštění AniCraftu. Pokud některý způsob nefunguje, AniCraft se spustí dalším způsobem.
+	A theme is a small file that names colours for the interface's roles. A theme whose text would be hard to read is not used, and says which colours to change.	Motiv je malý soubor, který přiřazuje barvy jednotlivým prvkům rozhraní. Motiv s obtížně čitelným textem se nepoužije a zobrazí se informace, které barvy změnit.
+	AniCraft couldn't open its window with this computer's graphics driver ({why}). Updating the graphics driver usually helps.	AniCraft nemohl otevřít okno s grafickým ovladačem tohoto počítače ({why}). Obvykle pomůže aktualizace grafického ovladače.
+	AniCraft couldn't open its window with this computer's graphics driver ({why}). Updating the graphics driver usually helps. If it doesn't, please attach this file to a bug report: {log}	AniCraft nemohl otevřít okno s grafickým ovladačem tohoto počítače ({why}). Obvykle pomůže aktualizace grafického ovladače. Pokud nepomůže, přiložte k hlášení chyby tento soubor: {log}
+	AniCraft couldn't start	AniCraft se nepodařilo spustit
+	AniCraft tries the best way for this computer first, and the next one if a way doesn't work.	AniCraft nejprve zkusí nejlepší způsob pro tento počítač. Pokud nefunguje, zkusí další.
+	CPU (GPU stopped)	Procesor (GPU přestalo vykreslovat)
+	CPU (GPU stopped; trying again soon)	Procesor (GPU přestalo vykreslovat; brzy se zkusí znovu)
+	Could not export the theme: {e}	Motiv se nepodařilo exportovat: {e}
+	Could not open the themes folder: {e}	Složku motivů se nepodařilo otevřít: {e}
+	Dark (Graphite)	Tmavý (grafitový)
+	DirectX 12	DirectX 12
+	Export Current Theme	Exportovat aktuální motiv
+	Exported the theme to {path}: edit its colours, then Reload	Motiv exportován do {path}: upravte jeho barvy a poté zvolte Znovu načíst
+	If AniCraft has trouble starting, this start-up log says why (attach it to a bug report):	Pokud má AniCraft potíže se spuštěním, důvod najdete v tomto protokolu spuštění (přiložte jej k hlášení chyby):
+	Light grey panels and dark text, for bright rooms and eyes that find dark interfaces hard.	Světle šedé panely a tmavý text, pro světlé místnosti a oči, kterým tmavé rozhraní nevyhovuje.
+	Light or dark as your system's apps are, and high contrast while it asks for more contrast. It does now, so it is high contrast.	Světlý nebo tmavý podle systémových aplikací, s vysokým kontrastem, když jej systém požaduje. Právě jej požaduje, proto je kontrast vysoký.
+	Light or dark as your system's apps are, and high contrast while it asks for more contrast. This system doesn't say whether it is light, so it is dark.	Světlý nebo tmavý podle systémových aplikací, s vysokým kontrastem, když jej systém požaduje. Tento systém nesděluje, zda používá světlý vzhled, proto je motiv tmavý.
+	Light or dark as your system's apps are, and high contrast while it asks for more contrast. Your system is dark now.	Světlý nebo tmavý podle systémových aplikací, s vysokým kontrastem, když jej systém požaduje. Systém nyní používá tmavý vzhled.
+	Light or dark as your system's apps are, and high contrast while it asks for more contrast. Your system is light now.	Světlý nebo tmavý podle systémových aplikací, s vysokým kontrastem, když jej systém požaduje. Systém nyní používá světlý vzhled.
+	Metal	Metal
+	Older and slower, but works with most graphics drivers. The stage is drawn on the CPU or on a graphics device of its own.	Starší a pomalejší, ale funguje s většinou grafických ovladačů. Pracovní plochu vykresluje procesor nebo samostatné grafické zařízení.
+	Open Themes Folder	Otevřít složku motivů
+	OpenGL	OpenGL
+	Opened the themes folder: {path}	Složka motivů otevřena: {path}
+	Reads the themes folder again, so a file you changed shows at once.	Znovu načte složku motivů, takže se změněný soubor projeví ihned.
+	Shows the folder your own themes are kept in.	Zobrazí složku s vašimi vlastními motivy.
+	The Mac's own graphics.	Vlastní grafické rozhraní systému Mac.
+	The base "{base}" is not one of "dark", "light" or "high-contrast".	Základ „{base}“ není „dark“, „light“ ani „high-contrast“.
+	The colour of {role}, {value}, is not written as "#rrggbb" or "#rrggbbaa".	Barva prvku {role}, {value}, není zapsána jako „#rrggbb“ nebo „#rrggbbaa“.
+	The file could not be read: {e}	Soubor se nepodařilo přečíst: {e}
+	The file has no "anicraft_theme" number, so it is not a theme.	Soubor nemá číslo „anicraft_theme“, proto není motivem.
+	The file is larger than {size} KB, so it is not a theme.	Soubor je větší než {size} KB, proto není motivem.
+	The file is not valid JSON: {e}	Soubor není platný JSON: {e}
+	The graphics card draws the stage again.	Grafická karta opět vykresluje pracovní plochu.
+	The graphics card stopped drawing the stage, so the CPU does for now; AniCraft tries the graphics card again soon. It said: {why}	Grafická karta přestala vykreslovat pracovní plochu, proto ji zatím vykresluje procesor; AniCraft brzy zkusí grafickou kartu znovu. Karta oznámila: {why}
+	The graphics card stopped drawing the stage, so the CPU does for the rest of this session. It said: {why}	Grafická karta přestala vykreslovat pracovní plochu, proto ji po zbytek této relace vykresluje procesor. Karta oznámila: {why}
+	The graphics card stopped drawing the stage, so the CPU draws it for the rest of this session.	Grafická karta přestala vykreslovat pracovní plochu, proto ji po zbytek této relace vykresluje procesor.
+	The graphics card stopped drawing the stage, so the CPU draws it now; AniCraft tries the graphics card again in {seconds} s.	Grafická karta přestala vykreslovat pracovní plochu, proto ji nyní vykresluje procesor; AniCraft zkusí grafickou kartu znovu za {seconds} s.
+	The graphics driver reported a problem; AniCraft carried on and autosaved your work (the details are in anicraft.log).	Grafický ovladač oznámil problém; AniCraft pokračoval a automaticky uložil vaši práci (podrobnosti jsou v anicraft.log).
+	The text is darker than the panels, but the base is dark. Use "base": "light".	Text je tmavší než panely, ale základ je tmavý. Použijte „base“: „light“.
+	The text is lighter than the panels, but the base is light. Use "base": "dark".	Text je světlejší než panely, ale základ je světlý. Použijte „base“: „dark“.
+	The theme is in format {theirs}; this AniCraft reads format {ours}. Update AniCraft to use it.	Motiv je ve formátu {theirs}; tento AniCraft čte formát {ours}. Pro použití motivu aktualizujte AniCraft.
+	The theme “{name}” is not in the themes folder. Showing {palette}.	Motiv „{name}“ není ve složce motivů. Zobrazuje se {palette}.
+	The theme “{name}” is not used: {why} Showing {palette}.	Motiv „{name}“ se nepoužívá: {why} Zobrazuje se {palette}.
+	This copy of AniCraft has no themes folder	Tato kopie AniCraftu nemá složku motivů
+	Try this if the window flickers or goes black with another choice.	Zkuste tuto volbu, pokud při jiné volbě okno bliká nebo zčerná.
+	Vulkan	Vulkan
+	Window graphics	Grafické rozhraní okna
+	Windows' own graphics: try this if the window flickers or goes black with another choice.	Vlastní grafické rozhraní Windows: zkuste tuto volbu, pokud při jiné volbě okno bliká nebo zčerná.
+	Writes the look in use to the themes folder as a file to start your own from.	Zapíše používaný vzhled do složky motivů jako soubor, ze kterého můžete vytvořit vlastní motiv.
+	Your theme, by {author}, from {file}.	Váš motiv od autora {author} ze souboru {file}.
+	Your theme, from {file}.	Váš motiv ze souboru {file}.
+	the themes folder is full of exported themes	složka motivů je plná exportovaných motivů
+	{file} is not used. {why}	Soubor {file} se nepoužívá. {why}
+	{name} (refused)	{name} (odmítnuto)
+	{pair} has a contrast of {ratio}:1; it needs {needs}:1.	Kontrast dvojice {pair} je {ratio}:1; vyžaduje {needs}:1.
+	{role} must be a solid colour ("#rrggbb"): text and surfaces can't be see-through.	Prvek {role} musí mít neprůhlednou barvu („#rrggbb“): text ani plochy nemohou být průhledné.
+@plural	Low contrast in {n} place: {pair} is {ratio}:1.|Low contrast in {n} places, such as {pair}, which is {ratio}:1.	Nízký kontrast na {n} místě: dvojice {pair} má {ratio}:1.|Nízký kontrast na {n} místech, například dvojice {pair} má {ratio}:1.|Nízký kontrast na {n} místech, například dvojice {pair} má {ratio}:1.
+@plural	{n} more theme file in the folder is not listed.|{n} more theme files in the folder are not listed.	V seznamu není uveden ještě {n} soubor motivu z této složky.|V seznamu nejsou uvedeny ještě {n} soubory motivů z této složky.|V seznamu není uvedeno ještě {n} souborů motivů z této složky.
+@plural	{n} theme read from the themes folder|{n} themes read from the themes folder	Ze složky motivů načten {n} motiv|Ze složky motivů načteny {n} motivy|Ze složky motivů načteno {n} motivů
+@plural	{n} theme read; {refused} refused (see Preferences › Theme)|{n} themes read; {refused} refused (see Preferences › Theme)	Načten {n} motiv; odmítnuto: {refused} (viz Předvolby › Motiv)|Načteny {n} motivy; odmítnuto: {refused} (viz Předvolby › Motiv)|Načteno {n} motivů; odmítnuto: {refused} (viz Předvolby › Motiv)
+@plural	{pair} has a contrast of {ratio}:1; it needs {needs}:1. {n} more pair is too low.|{pair} has a contrast of {ratio}:1; it needs {needs}:1. {n} more pairs are too low.	Kontrast dvojice {pair} je {ratio}:1; vyžaduje {needs}:1. Další {n} dvojice má příliš nízký kontrast.|Kontrast dvojice {pair} je {ratio}:1; vyžaduje {needs}:1. Další {n} dvojice mají příliš nízký kontrast.|Kontrast dvojice {pair} je {ratio}:1; vyžaduje {needs}:1. Dalších {n} dvojic má příliš nízký kontrast.
+
+# Applications menu and settings storage
+	A menu entry of AniCraft's name that AniCraft didn't add is there; it is left as it is	V nabídce již existuje položka s názvem AniCraft, kterou AniCraft nepřidal; zůstane beze změny
+	Add AniCraft to your applications menu?	Přidat AniCraft do nabídky aplikací?
+	Add to Applications Menu	Přidat do nabídky aplikací
+	Add to Menu	Přidat do nabídky
+	Added: the menu starts this AppImage and it opens your .anicraft, .fla and .xfl files	Přidáno: nabídka spouští tento AppImage, který otevírá vaše soubory .anicraft, .fla a .xfl
+	AniCraft is in your applications menu, and opens .anicraft, .fla and .xfl files. Preferences › About removes it.	AniCraft je v nabídce aplikací a otevírá soubory .anicraft, .fla a .xfl. Odeberete jej přes Předvolby › O aplikaci.
+	Applications Menu Status	Stav nabídky aplikací
+	Applications menu	Nabídka aplikací
+	In the browser: settings are kept in this site's storage	V prohlížeči: nastavení se uchovává v úložišti tohoto webu
+	Installed: settings are kept in your user folder	Nainstalovaná verze: nastavení se uchovává ve vaší uživatelské složce
+	Logs	Protokoly
+	Not Now	Teď ne
+	Not added: this AppImage is not in your applications menu	Nepřidáno: tento AppImage není v nabídce aplikací
+	Not made yet	Zatím nevytvořeno
+	Portable: everything is kept in the data folder beside AniCraft	Přenosná verze: vše se uchovává v datové složce vedle AniCraftu
+	Remove from Applications Menu	Odebrat z nabídky aplikací
+	Removed AniCraft from the applications menu. Add it again here any time.	AniCraft odebrán z nabídky aplikací. Zde jej můžete kdykoli znovu přidat.
+	Show in File Explorer	Zobrazit v Průzkumníku souborů
+	Shown in your system's file viewer	Zobrazí se v systémovém správci souborů
+	Start it from the menu like any app, and open .anicraft, .fla and .xfl files by double-clicking them. Only your own data folder changes; Preferences › About removes it again.	Spouštějte aplikaci z nabídky jako ostatní aplikace a otevírejte soubory .anicraft, .fla a .xfl dvojklikem. Změní se pouze vaše vlastní datová složka; přes Předvolby › O aplikaci lze položku opět odebrat.
+	The applications menu belongs to an AppImage on Linux: use the desktop app	Nabídka aplikací je určena pro AppImage na Linuxu: použijte desktopovou aplikaci
+	The applications menu now starts this copy of AniCraft	Nabídka aplikací nyní spouští tuto kopii AniCraftu
+	The menu starts another AppImage: {path}	Nabídka spouští jiný AppImage: {path}
+	This copy	Tato kopie
+	This copy is portable, but {path} can't be written ({error}), so your user folder is used instead.	Tato kopie je přenosná, ale do {path} nelze zapisovat ({error}), proto se používá vaše uživatelská složka.
+	Use This Copy	Použít tuto kopii
+	You can add AniCraft to the applications menu any time in Preferences › About.	AniCraft můžete kdykoli přidat do nabídky aplikací přes Předvolby › O aplikaci.
+	could not show {path}: {e}	nelze zobrazit {path}: {e}
+
+# Export, plug-ins and help
+	? Help for {panel}	? Nápověda k panelu {panel}
+	A file with this name is already there. Replace it? This can't be undone.	Soubor s tímto názvem již existuje. Nahradit jej? Tuto akci nelze vrátit.
+	An assistant can edit this document through a control port on this computer. Its edits appear here at once and undo like your own. Started with --control; close AniCraft to turn it off.	Asistent může upravovat tento dokument přes řídicí port na tomto počítači. Jeho úpravy se zde projeví ihned a lze je vrátit stejně jako vlastní. Spuštěno s --control; vypnete zavřením AniCraftu.
+	An export format: find it in File › Export	Formát exportu: najdete jej v nabídce Soubor › Exportovat
+	Every frame of the movie	Každý snímek animace
+	Export Formats	Formáty exportu
+	Export cancelled: nothing was written	Export zrušen: nic nebylo zapsáno
+	Export the movie in this format	Exportovat animaci v tomto formátu
+	Export with Plug-in…	Exportovat pomocí zásuvného modulu…
+	Export {format}	Exportovat {format}
+	Exported {path} ({size} KB)	Exportováno: {path} ({size} KB)
+	Frame {done} of {total}	Snímek {done} z {total}
+	Help for This	Nápověda k tomuto prvku
+	Help for what you are pointing at	Nápověda k prvku pod ukazatelem
+	Opened the user guide at “{section}”	Uživatelská příručka otevřena v části „{section}“
+	Opened the user guide's search in your browser	Vyhledávání v uživatelské příručce otevřeno v prohlížeči
+	Plug-in · .{ext}	Zásuvný modul · .{ext}
+	Plug-ins run sandboxed: they can change the open document through AniCraft's commands, never your files. An export format only reads the frames; AniCraft writes its file.	Zásuvné moduly běží v izolovaném prostředí: mohou měnit otevřený dokument pomocí příkazů AniCraftu, nikdy vaše soubory. Exportní formát pouze čte snímky; soubor zapisuje AniCraft.
+	Remote control is off: port {port} is in use or not allowed ({reason}). Is another AniCraft already open with remote control?	Vzdálené ovládání je vypnuté: port {port} se používá nebo není povolen ({reason}). Není již otevřený jiný AniCraft se vzdáleným ovládáním?
+	Remote control is off: {reason}	Vzdálené ovládání je vypnuté: {reason}
+	Remote control is on, but its token could not be saved ({reason}); set ANICRAFT_CONTROL_TOKEN for the assistant.	Vzdálené ovládání je zapnuté, ale jeho token se nepodařilo uložit ({reason}); nastavte asistentovi ANICRAFT_CONTROL_TOKEN.
+	Remote control on (port {port})	Vzdálené ovládání zapnuto (port {port})
+	Search the User Guide	Hledat v uživatelské příručce
+	Stop the export; nothing is written	Zastavit export; nic se nezapíše
+	Test the movie ({key}): its trace actions, frame-script logs and anything that couldn't run appear here.	Otestujte animaci ({key}): zde se zobrazí její akce trace, protokoly skriptů snímků a vše, co se nepodařilo spustit.
+	Test the movie: its trace actions, frame-script logs and anything that couldn't run appear here.	Otestujte animaci: zde se zobrazí její akce trace, protokoly skriptů snímků a vše, co se nepodařilo spustit.
+	The export stopped unexpectedly	Export se neočekávaně zastavil
+	The file dialog could not be shown	Dialog pro výběr souboru se nepodařilo zobrazit
+	User guide	Uživatelská příručka
+	Wait for the export to finish first.	Nejprve počkejte na dokončení exportu.
+	help for what you are pointing at	nápověda k prvku pod ukazatelem
+	{description} (plug-in · .{ext})	{description} (zásuvný modul · .{ext})
+@plural	and {n} more|and {n} more	a {n} další|a {n} další|a {n} dalších
